@@ -52,7 +52,7 @@ You can find out how to navigate to PepeSync network status [here](./../network-
     </tr>
     <tr>
         <td align="left"><b>Chain ID</b></td>
-        <td align="left">59140</td>
+        <td align="left">1879</td>
     </tr>
     <tr>
         <td align="left"><b>Currency Symbol</b></td>
@@ -194,14 +194,14 @@ If you want to drip Goerli ETH directly to PepeSync, you can use the [Infura Pep
       <td>BSC</td>
       <td>Native token</td>
       <td>0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4</td>
-      <td><a href="https://dev-cbridge-v2.netlify.app/97/59140/BNB">Celer</a></td>
+      <td><a href="https://dev-cbridge-v2.netlify.app/97/1879/BNB">Celer</a></td>
     </tr>
     <tr>
       <td>BUSD</td>
       <td>BSC</td>
       <td>0xeb3eb991d39dac92616da64b7c6d5af5ccff1627</td>
       <td>0x7d43AABC515C356145049227CeE54B608342c0ad</td>
-      <td><a href="https://dev-cbridge-v2.netlify.app/97/59140/BNB">Celer</a></td>
+      <td><a href="https://dev-cbridge-v2.netlify.app/97/1879/BNB">Celer</a></td>
     </tr>
     <tr>
       <td>AVAX</td>

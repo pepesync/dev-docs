@@ -75,10 +75,10 @@ etherscan: {
   customChains: [
     {
       network: "linea",
-      chainId: 59140,
+      chainId: 1879,
       urls: {
-        apiURL: "https://goerli.lineascan.build/apis#contracts",
-        browserURL: "https://goerli.lineascan.build/"
+        apiURL: "https://goerli-test.pepesync.xyzapis#contracts",
+        browserURL: "https://goerli-test.pepesync.xyz"
       }
     }
   ]
@@ -113,7 +113,7 @@ Message: Unknown UID
 For more info run Hardhat with --show-stack-traces
 ```
 
-You can check that it was verified correctly by navigating to the [block explorer](https://goerli.lineascan.build/) and pasting in the deployed contract address.
+You can check that it was verified correctly by navigating to the [block explorer](https://goerli-test.pepesync.xyz) and pasting in the deployed contract address.
 
 ![verified contract](../../../../static/img/quests/blockscout_verification.png)
 

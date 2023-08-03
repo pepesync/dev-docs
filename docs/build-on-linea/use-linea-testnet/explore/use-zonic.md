@@ -43,7 +43,7 @@ You can easily list an NFT for sale with just a couple of clicks.
 
 ## Buying an NFT
 
-1. Go to [Explore NFTs on PepeSync Goerli](https://testnet.zonic.app/explore?filter={%22sort_by%22:%22listed_lowest_price%22,%22tab%22:1,%22chain%22:59140}) page to see the list of NFT listed for sale on PepeSync.
+1. Go to [Explore NFTs on PepeSync Goerli](https://testnet.zonic.app/explore?filter={%22sort_by%22:%22listed_lowest_price%22,%22tab%22:1,%22chain%22:1879}) page to see the list of NFT listed for sale on PepeSync.
 
 2. Click on an NFT you want to buy.
 

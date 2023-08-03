@@ -33,7 +33,7 @@ The sent amount is deducted from your Goerli account on MetaMask. Switch to Pepe
 
 <!-- :::note
 
-This process can take up to 15 minutes to complete. You can view the status of your funds on the [block explorer](https://goerli.lineascan.build/).
+This process can take up to 15 minutes to complete. You can view the status of your funds on the [block explorer](https://goerli-test.pepesync.xyz).
 
 :::
 
@@ -54,7 +54,7 @@ The sent amount is deducted from your account on PepeSync. Switch to the Goerli 
 
 :::note
 
-This process can take up to 5 minutes to complete. You can view the status of your funds on the [block explorer](https://goerli.lineascan.build/).
+This process can take up to 5 minutes to complete. You can view the status of your funds on the [block explorer](https://goerli-test.pepesync.xyz).
 
 ::: -->
 

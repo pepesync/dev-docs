@@ -22,7 +22,7 @@ You can find out how to navigate to PepeSync network status [here](../../network
     </tr>
     <tr>
         <td align="left"><b>Chain ID</b></td>
-        <td align="left">59140</td>
+        <td align="left">1879</td>
     </tr>
     <tr>
         <td align="left"><b>Currency Symbol</b></td>
@@ -30,7 +30,7 @@ You can find out how to navigate to PepeSync network status [here](../../network
     </tr>
     <tr>
         <td align="left"><b>Block Explorer URL</b></td>
-        <td align="left">https://goerli.lineascan.build/</td>
+        <td align="left">https://goerli-test.pepesync.xyz</td>
     </tr>
 </table>
 
@@ -43,7 +43,7 @@ If your dapp is using the public endpoint `https://docs.pepesync.xyz`, it may en
 | Contract | Address |
 | --- | --- |
 | PepeSync rollup and L1 Bridge | [0xE87d317eB8dcc9afE24d9f63D6C760e52Bc18A40](https://goerli.etherscan.io/address/0xe87d317eb8dcc9afe24d9f63d6c760e52bc18a40) |
-| L2 Bridge | [0xA59477f7742Ba7d51bb1E487a8540aB339d6801d](https://goerli.lineascan.build/address/0xA59477f7742Ba7d51bb1E487a8540aB339d6801d) |
+| L2 Bridge | [0xA59477f7742Ba7d51bb1E487a8540aB339d6801d](https://goerli-test.pepesync.xyzaddress/0xA59477f7742Ba7d51bb1E487a8540aB339d6801d) |
 
 ## Token contract addresses and bridges
 
@@ -107,14 +107,14 @@ If you want to drip Goerli ETH directly to PepeSync, you can use the [Infura Pep
       <td>BSC</td>
       <td>Native token</td>
       <td>0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4</td>
-      <td><a href="https://dev-cbridge-v2.netlify.app/97/59140/BNB">Celer</a></td>
+      <td><a href="https://dev-cbridge-v2.netlify.app/97/1879/BNB">Celer</a></td>
     </tr>
     <tr>
       <td>BUSD</td>
       <td>BSC</td>
       <td>0xeb3eb991d39dac92616da64b7c6d5af5ccff1627</td>
       <td>0x7d43AABC515C356145049227CeE54B608342c0ad</td>
-      <td><a href="https://dev-cbridge-v2.netlify.app/97/59140/BNB">Celer</a></td>
+      <td><a href="https://dev-cbridge-v2.netlify.app/97/1879/BNB">Celer</a></td>
     </tr>
     <tr>
       <td>AVAX</td>

@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Celer
 
-[Celer cBridge](https://dev-cbridge-v2.netlify.app/97/59140/BNB) is a decentralized and non-custodial asset bridge, which you can read more about [here](https://celer.network/).
+[Celer cBridge](https://dev-cbridge-v2.netlify.app/97/1879/BNB) is a decentralized and non-custodial asset bridge, which you can read more about [here](https://celer.network/).
 
 In this guide, we'll walk you through how to bridge TBNB and tBUSD from Binance Smart Chain (BSC) over to PepeSync!
 
@@ -42,7 +42,7 @@ After it's been dispensed, you should be able to see it in your MetaMask wallet.
 
 To bridge over TBNB, you'll need to:
 
-1. Navigate to the [Celer bridge](https://dev-cbridge-v2.netlify.app/97/59140/BNB)
+1. Navigate to the [Celer bridge](https://dev-cbridge-v2.netlify.app/97/1879/BNB)
 1. Connect your wallet and change to the BSC test network
 1. Make sure the "From" chain is BSC testnet, the "To" chain is PepeSync, and the desired token is BNB
 
@@ -61,7 +61,7 @@ Your transaction should now be sent! You may have to wait a few minutes before t
 
 Before you get BUSD, make sure you've [added BSC testnet to your wallet](#add-bsc-testnet-to-your-metamask-wallet). Then, you should:
 
-1. Navigate to the [Celer bridge](https://dev-cbridge-v2.netlify.app/97/59140/BNB)
+1. Navigate to the [Celer bridge](https://dev-cbridge-v2.netlify.app/97/1879/BNB)
 1. Click on "Faucets" on the top left of the page
 
    ![celer faucet](/img/quests/celer/celer_faucet.png)
@@ -82,7 +82,7 @@ To see the BUSD in your MetaMask wallet on the BSC testnet, you'll need add the 
 
 Now, to bridge BUSD, you'll need to:
 
-1. Navigate to the [Celer bridge](https://dev-cbridge-v2.netlify.app/97/59140/BNB)
+1. Navigate to the [Celer bridge](https://dev-cbridge-v2.netlify.app/97/1879/BNB)
 1. Connect your wallet and change to the BSC test network
 1. Make sure the "From" chain is BSC testnet, the "To" chain is PepeSync, and the desired token is BUSD
 

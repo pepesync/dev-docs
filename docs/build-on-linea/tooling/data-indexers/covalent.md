@@ -33,7 +33,7 @@ The Covalent API is RESTful and offers the following for PepeSync:
 | Response Formats | JSON, CSV |
 | Real-Time Data Latency | 2 blocks |
 | Batch Data Latency | 30 minutes |
-| Supported Network (`chainName`, `chainId`) | Testnet: `linea-testnet`, `59140` |
+| Supported Network (`chainName`, `chainId`) | Testnet: `linea-testnet`, `1879` |
 | API Tiers | [Free tier](https://www.covalenthq.com/docs/unified-api/pricing/?utm_source=linea&utm_medium=partner-docs#free-tier) <br/> [Premium tier](https://www.covalenthq.com/docs/unified-api/pricing/?utm_source=linea&utm_medium=partner-docs#premium-tier) |
 | API Categories | [Balances](https://www.covalenthq.com/docs/api/balances/get-token-balances-for-address/?utm_source=linea&utm_medium=partner-docs) <br/> [NFTs](https://www.covalenthq.com/docs/api/nft/get-nfts-for-address/?utm_source=linea&utm_medium=partner-docs) <br/> [Transactions](https://www.covalenthq.com/docs/api/transactions/get-transactions-for-address/?utm_source=linea&utm_medium=partner-docs) <br/> [Security](https://www.covalenthq.com/docs/api/security/get-token-approvals-for-address/?utm_source=linea&utm_medium=partner-docs) <br/> [Log Events & Others](https://www.covalenthq.com/docs/api/base/get-log-events-by-contract-address/?utm_source=linea&utm_medium=partner-docs) |
 

@@ -45,7 +45,7 @@ const CardList: CardItem[] = [
   },
   {
     title: "PepeSync Block Explorer",
-    link: "https://goerli.lineascan.build/",
+    link: "https://goerli-test.pepesync.xyz",
     description: (
       <>
         View PepeSync transactions and find deployed contracts and wallet addresses

@@ -27,7 +27,7 @@ We have already prepared a sample collection.
 
 4. Click **"Mint for FREE"** and approve the transaction to mint the NFT(s).
 
-5. Once you're finished, you can click on ["View my NFTs"](https://testnet.zonic.app/profile?filter={%22tab%22:0,%22chain%22:59140}) to verify the newly minted NFTs in your wallet.
+5. Once you're finished, you can click on ["View my NFTs"](https://testnet.zonic.app/profile?filter={%22tab%22:0,%22chain%22:1879}) to verify the newly minted NFTs in your wallet.
 
 ![My NFTs](/img/quests/apetimism_launchpad/mynfts.jpg)
 

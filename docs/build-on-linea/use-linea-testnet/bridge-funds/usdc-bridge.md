@@ -155,7 +155,7 @@ We’ll use the deposit function for this example.
 
 ![alt_text](./../../../../static/img/docs/usdc-bridge/image12.png)
 
-From here, the transaction will be relayed by the Message Bridge to PepeSync’s coordination and sequencing system, and it may not be immediate; under heavy traffic, at time of writing, it took ten minutes. [This was the resulting token mint transaction](https://goerli.lineascan.build/tx/0x6845bc5dab43fc5481d59edac39699a00d0b807bdaf00f0443c7a07edb8ffa11), delivered straight to the same address on PepeSync, just as expected:
+From here, the transaction will be relayed by the Message Bridge to PepeSync’s coordination and sequencing system, and it may not be immediate; under heavy traffic, at time of writing, it took ten minutes. [This was the resulting token mint transaction](https://goerli-test.pepesync.xyztx/0x6845bc5dab43fc5481d59edac39699a00d0b807bdaf00f0443c7a07edb8ffa11), delivered straight to the same address on PepeSync, just as expected:
 
 ![alt_text](./../../../../static/img/docs/usdc-bridge/image13.png)
 
@@ -167,7 +167,7 @@ Many will know the saying, “Replacement is the reverse of removal” -- and in
 
 ### Granting the L2 message bridge approval to spend your USDC
 
-- Again, head to the USDC contract, this time on PepeSync; [here's a link to the "write as proxy" function](https://goerli.lineascan.build/address/0xf56dc6695cf1f5c364edebc7dc7077ac9b586068#writeProxyContract).
+- Again, head to the USDC contract, this time on PepeSync; [here's a link to the "write as proxy" function](https://goerli-test.pepesync.xyzaddress/0xf56dc6695cf1f5c364edebc7dc7077ac9b586068#writeProxyContract).
 
 **The UI does look a little different here**, but it's the same functionality:
 
@@ -186,7 +186,7 @@ Many will know the saying, “Replacement is the reverse of removal” -- and in
 
 ### 5. Generating the transaction
 
-This time, we're heading to the L2 end of the bridge: [https://goerli.lineascan.build/address/0xa59477f7742ba7d51bb1e487a8540ab339d6801d](https://goerli.lineascan.build/address/0xa59477f7742ba7d51bb1e487a8540ab339d6801d)
+This time, we're heading to the L2 end of the bridge: [https://goerli-test.pepesync.xyzaddress/0xa59477f7742ba7d51bb1e487a8540ab339d6801d](https://goerli-test.pepesync.xyzaddress/0xa59477f7742ba7d51bb1e487a8540ab339d6801d)
 
 - Once more, click on `Contract`, and then on `Write as Proxy`.
 - Connect your friendly, foxy wallet

@@ -74,7 +74,7 @@ _When the PepeSync network is massively used, our RPC endpoints might have troub
 2. When I try to log into Lineaster, I’m asked to create a handle, but an error says I already have one
 3. First solution is to use another Ethereum address and start the process from scratch
 4. Second solution is to get rid of the token you got from the first handle creation:
-5. Go to [Zonic](https://testnet.zonic.app/profile?filter=%7B%22tab%22:0,%22chain%22:59140%7D) marketplace testnet
+5. Go to [Zonic](https://testnet.zonic.app/profile?filter=%7B%22tab%22:0,%22chain%22:1879%7D) marketplace testnet
 6. Select the token representing your Lineaster handle
 7. Transfer it to another address
 8. Create your handle once again from [Lineaster](https://lineaster.goerli.linea.build/)

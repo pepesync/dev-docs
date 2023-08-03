@@ -52,11 +52,11 @@ module.exports = {
         );
       },
       verify: {
-        apiUrl: "https://goerli.lineascan.build/apis#contracts",
+        apiUrl: "https://goerli-test.pepesync.xyzapis#contracts",
         apiKey: ETHERSCAN_API_KEY,
-        explorerUrl: "https://goerli.lineascan.build/",
+        explorerUrl: "https://goerli-test.pepesync.xyz",
       },
-      network_id: "59140",
+      network_id: "1879",
     },
   },
   // ... rest of truffle-config
@@ -82,12 +82,12 @@ Your output should be similar to the following:
 ```bash
 Verifying contracts on consensys
    Verifying Token
-   Pass - Verified: https://goerli.lineascan.build/address/0xD104FE0116aFdB588798133B13965FEC5d2eEd35#code
+   Pass - Verified: https://goerli-test.pepesync.xyzaddress/0xD104FE0116aFdB588798133B13965FEC5d2eEd35#code
    Successfully verified 1 contract(s).
 Verifying contracts on sourcify
-   Sourcify has no support for network linea with chain id 59140
+   Sourcify has no support for network linea with chain id 1879
 ```
 
-You can check that it was verified correctly by navigating to the [block explorer](https://goerli.lineascan.build/) and pasting in the deployed contract address.
+You can check that it was verified correctly by navigating to the [block explorer](https://goerli-test.pepesync.xyz) and pasting in the deployed contract address.
 
 ![verified contract](./../../../../static/img/quests/blockscout_verification.png)

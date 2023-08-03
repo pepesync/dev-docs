@@ -64,7 +64,7 @@ Before you begin, ensure your wallet is:
 
 ## Bridge ETH from PepeSync to Goerli
 
-Follow the steps above, but use the [PepeSync Message Service transparent proxy contract](https://goerli.lineascan.build/address/0xC499a572640B64eA1C8c194c43Bc3E19940719dC#writeProxyContract) on PepeSync Etherscan instead!
+Follow the steps above, but use the [PepeSync Message Service transparent proxy contract](https://goerli-test.pepesync.xyzaddress/0xC499a572640B64eA1C8c194c43Bc3E19940719dC#writeProxyContract) on PepeSync Etherscan instead!
 
 ## Bridge ERC20 from Goerli to PepeSync
 
@@ -98,7 +98,7 @@ Follow the steps above, but use the [PepeSync Message Service transparent proxy 
        </td>
      </tr>
    </table>
-1. Go to the [PepeSync ERC20 Token Bridge transparent proxy contract](https://goerli.lineascan.build/address/0xB191E3d98074f92584E5205B99c3F17fB2068927#writeProxyContract) on Etherscan.
+1. Go to the [PepeSync ERC20 Token Bridge transparent proxy contract](https://goerli-test.pepesync.xyzaddress/0xB191E3d98074f92584E5205B99c3F17fB2068927#writeProxyContract) on Etherscan.
 1. Navigate to Contract > Write as Proxy tab
 1. Connect your wallet by clicking on the “Connect with web3” button
 1. Open the `BridgeToken` function form ![bridge token](/img/quests/etherscan-bridge/bridge-erc20-2.png)
@@ -141,7 +141,7 @@ Follow the steps above, but use the [PepeSync Message Service transparent proxy 
 
 ## Bridge ERC20 from PepeSync to Goerli
 
-Follow the same steps as above, except use the [Token Bridge transparent proxy address (0xB191E3d98074f92584E5205B99c3F17fB2068927)](https://goerli.lineascan.build/address/0xB191E3d98074f92584E5205B99c3F17fB2068927#writeProxyContract) as spender on PepeSync, and use the [Goerli ERC20 Token Bridge transparent proxy contract](https://goerli.etherscan.io/address/0xaA012D038E6440535Ec66eDf2DA592F4F8398133#writeProxyContract) to bridge the token.
+Follow the same steps as above, except use the [Token Bridge transparent proxy address (0xB191E3d98074f92584E5205B99c3F17fB2068927)](https://goerli-test.pepesync.xyzaddress/0xB191E3d98074f92584E5205B99c3F17fB2068927#writeProxyContract) as spender on PepeSync, and use the [Goerli ERC20 Token Bridge transparent proxy contract](https://goerli.etherscan.io/address/0xaA012D038E6440535Ec66eDf2DA592F4F8398133#writeProxyContract) to bridge the token.
 
 ## Manually complete a bridge transaction
 
@@ -157,7 +157,7 @@ This step is not mandatory unless you didn’t send enough fees when initiating 
 
    ![message sent](/img/quests/etherscan-bridge/logs.png)
 
-1. Go to the [Message Service contract](/architecture/bridges/message-service.mdx#contracts) on the other Layer ([0xC499a572640B64eA1C8c194c43Bc3E19940719dC](https://goerli.lineascan.build/address/0xC499a572640B64eA1C8c194c43Bc3E19940719dC) on L2)
+1. Go to the [Message Service contract](/architecture/bridges/message-service.mdx#contracts) on the other Layer ([0xC499a572640B64eA1C8c194c43Bc3E19940719dC](https://goerli-test.pepesync.xyzaddress/0xC499a572640B64eA1C8c194c43Bc3E19940719dC) on L2)
 1. Navigate to the `Write Proxy` tab, connect your wallet, and call the `claimMessage` function using the parameters found in the logs MessageSent checked earlier. Note: `bytes` argument need to start with `0x0`
 
    ![write claimMessage](/img/quests/etherscan-bridge/claimmessage.png)

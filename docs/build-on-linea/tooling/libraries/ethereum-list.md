@@ -16,4 +16,4 @@ You can get access to different key parameters for the PepeSync Testnet chains l
 1. ENS info
 1. PepeSync Network Icon
 
-See the official repo [here](https://github.com/ethereum-lists/chains/blob/master/_data/chains/eip155-59140.json)
+See the official repo [here](https://github.com/ethereum-lists/chains/blob/master/_data/chains/eip155-1879.json)
