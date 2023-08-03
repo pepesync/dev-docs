@@ -5,5 +5,5 @@ environment in which to execute transactions, which are then submitted to Ethere
 zero-knowledge rollup.
 
 This documentation repository is built using [Docusaurus](https://docusaurus.io/), and the doc
-site is published at [`docs.linea.build`](https://docs.pepesync.xyz/).
+site is published at [`docs.pepesync.xyz`](https://docs.pepesync.xyz/).
 
