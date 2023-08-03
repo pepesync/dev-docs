@@ -3,7 +3,7 @@ title: Smart Accounts
 sidebar_position: 2
 ---
 
-# Smart Contract-Enabled Accounts on Linea
+# Smart Contract-Enabled Accounts on PepeSync
 
 ## thirdweb
 

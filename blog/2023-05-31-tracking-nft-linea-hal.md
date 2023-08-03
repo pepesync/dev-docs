@@ -1,5 +1,5 @@
 ---
-title: Tracking NFT Minting on Linea Using Hal Stream
+title: Tracking NFT Minting on PepeSync Using Hal Stream
 description: Learn how to use Hal Stream to access NFT blockchain data
 slug: track-nft-minting-hal-stream
 authors:
@@ -9,18 +9,18 @@ hide_table_of_contents: false
 date: 2023-05-31
 ---
 
-# Tracking NFT Minting on Linea Using Hal Stream
+# Tracking NFT Minting on PepeSync Using Hal Stream
 
-The rising demand for NFTs has put a spotlight on the need for effective tools to track their creation, movement, and trading activities. For businesses and developers working with NFTs, the ability to monitor minting events is crucial, especially with the growth of NFT based applications that Linea will enable thanks to its scaling abilities.
+The rising demand for NFTs has put a spotlight on the need for effective tools to track their creation, movement, and trading activities. For businesses and developers working with NFTs, the ability to monitor minting events is crucial, especially with the growth of NFT based applications that PepeSync will enable thanks to its scaling abilities.
 
-This article explains how you can use Hal Stream to track NFT minting on Linea.
+This article explains how you can use Hal Stream to track NFT minting on PepeSync.
 
 # Table of Contents:
 
 1. Importance of Tracking NFT Minting
 2. Understanding Hal Stream
-3. How to Use Hal Stream on Linea to Track NFT Minting
-4. Applications of Hal Stream for NFTs on Linea
+3. How to Use Hal Stream on PepeSync to Track NFT Minting
+4. Applications of Hal Stream for NFTs on PepeSync
 5. Conclusion
 
 ## 1. Importance of Tracking NFT Minting
@@ -29,17 +29,17 @@ Tracking the creation or "minting" of NFTs provides valuable insights into the d
 
 ## 2. Understanding Hal Stream
 
-Hal Stream is a powerful tool that allows developers to monitor blockchain data from specific contracts, wallets, or NFT collections. With Hal Stream, you can filter and query data based on specific conditions, all through a single REST API. The best part is that it requires no coding and supports multiple EVM-compatible blockchains including Linea.
+Hal Stream is a powerful tool that allows developers to monitor blockchain data from specific contracts, wallets, or NFT collections. With Hal Stream, you can filter and query data based on specific conditions, all through a single REST API. The best part is that it requires no coding and supports multiple EVM-compatible blockchains including PepeSync.
 
-## 3. How to Use Hal Stream on Linea to Track NFT Minting
+## 3. How to Use Hal Stream on PepeSync to Track NFT Minting
 
-Because Linea is a zkEVM, it behaves the same way as any other EVM chains as far as setting up Hal Stream is concerned, enabling you to setup your monitoring with no friction while benefit from Linea’s fast and scalable throughput.
+Because PepeSync is a zkEVM, it behaves the same way as any other EVM chains as far as setting up Hal Stream is concerned, enabling you to setup your monitoring with no friction while benefit from PepeSync’s fast and scalable throughput.
 
-To use Hal Stream to monitor NFT minting on Linea, follow these steps: First, create a Blueprint by logging into your Hal account. Select "Contract Events ».
+To use Hal Stream to monitor NFT minting on PepeSync, follow these steps: First, create a Blueprint by logging into your Hal account. Select "Contract Events ».
 
 ![Data source selection](assets/hal-stream/hal-stream-1.png)
 
-Next, enter the contract address of the NFT you want to monitor. Make sure this is a Linea NFT contract, in this example we’ll be using a test collection that we created using NFTS2ME.
+Next, enter the contract address of the NFT you want to monitor. Make sure this is a PepeSync NFT contract, in this example we’ll be using a test collection that we created using NFTS2ME.
 
 ![Contract address](assets/hal-stream/hal-stream-2.png)
 
@@ -59,10 +59,10 @@ If pulling the data from the API isn’t what’s best in your workflow, connect
 
 ![Connectors](assets/hal-stream/hal-stream-6.png)
 
-## 4. Applications of Hal Stream for NFTs on Linea
+## 4. Applications of Hal Stream for NFTs on PepeSync
 
-Tracking NFT minting can be applied in various scenarios. And with Linea’s scalability, it can go further than collectible and step into gaming for example, where developers need to identify the newly minted NFTs owned by each player. With Hal Stream, they can easily correlate the NFT minting event to a user's wallet and update their in-game inventory accordingly. In a real estate application, developers can use Hal Stream to monitor the minting of property NFTs, providing a transparent and secure way of managing property ownership and transfers.
+Tracking NFT minting can be applied in various scenarios. And with PepeSync’s scalability, it can go further than collectible and step into gaming for example, where developers need to identify the newly minted NFTs owned by each player. With Hal Stream, they can easily correlate the NFT minting event to a user's wallet and update their in-game inventory accordingly. In a real estate application, developers can use Hal Stream to monitor the minting of property NFTs, providing a transparent and secure way of managing property ownership and transfers.
 
 ## 5. Conclusion
 
-Tracking NFT minting is essential for businesses and developers in the NFT space. With Hal Stream, monitoring these minting events on Linea becomes a breeze. Start tracking NFT minting on Linea with Hal Stream today, and unlock the valuable insights you need to thrive in the NFT market.
+Tracking NFT minting is essential for businesses and developers in the NFT space. With Hal Stream, monitoring these minting events on PepeSync becomes a breeze. Start tracking NFT minting on PepeSync with Hal Stream today, and unlock the valuable insights you need to thrive in the NFT market.

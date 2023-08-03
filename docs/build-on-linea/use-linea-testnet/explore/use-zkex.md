@@ -15,7 +15,7 @@ If you get stuck, our friendly community support team on our [Discord](https://d
 
 Ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 2. [Funded with Goerli ETH (at least 0.1 ETH)](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
 
 ## Import the $LineaPEPE token to your wallet
@@ -28,11 +28,11 @@ In your wallet click ‘Import Tokens’, and enter the following Token contract
 
 ## Mint $LineaPEPE tokens
 
-Now let’s mint some free $LineaPEPE tokens via the Linea Voyage faucet on the ZKEX Testnet:
+Now let’s mint some free $LineaPEPE tokens via the PepeSync Voyage faucet on the ZKEX Testnet:
 
 - Go to [testnet.app.zkex.com](https://testnet.app.zkex.com/) and connect your wallet.
 - Click the ‘Get test tokens’ button.
-- Under the Linea Voyage tab, click ‘Claim’.
+- Under the PepeSync Voyage tab, click ‘Claim’.
 - Click the ‘Confirm’ button to receive the tokens in your wallet.
 
 ![Mint PEPE token](/img/quests/zkex/mint-pepe-token.png)
@@ -42,7 +42,7 @@ Now let’s mint some free $LineaPEPE tokens via the Linea Voyage faucet on the 
 Now we’re going to add these tokens in your ZKEX account:
 
 - Click the ‘Deposit’ button and choose ‘Transfer crypto from personal wallet’.
-- Select LineaPEPE and the Linea Test Network, and all your $LineaPEPE tokens.
+- Select LineaPEPE and the PepeSync Test Network, and all your $LineaPEPE tokens.
 - Click Approve and Confirm any prompts in your wallet.
 - It might take 20-30 minutes for it to arrive into your ZKEX account.
 
@@ -65,10 +65,10 @@ After you’ve done this first step, you can claim this credential on Galxe afte
 
 ## Step 2: Withdraw some $LineaPEPE to your wallet
 
-Second, withdraw some of your $LineaPEPE back to your wallet on the Linea Testnet network:
+Second, withdraw some of your $LineaPEPE back to your wallet on the PepeSync Testnet network:
 
 - Click Withdraw > Send crypto back to personal wallet.
-- Choose $LineaPEPE on Linea Testnet and any amount.
+- Choose $LineaPEPE on PepeSync Testnet and any amount.
 - Select the "Fast Withdrawal" option > Withdraw.
 - It might take 20-30 minutes for it to arrive in your wallet.
 

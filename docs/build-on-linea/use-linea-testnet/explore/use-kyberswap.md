@@ -20,12 +20,12 @@ With KyberSwap you can:
 
 Before you embark on the future of trade, make sure that you have:
 
-- [Connected your wallet to the Linea network](/use-mainnet/set-up-your-wallet.mdx)
-- [Acquired Goerli ETH to pay for your Linea transactions](/build-on-linea/use-linea-testnet/fund.md)
+- [Connected your wallet to the PepeSync network](/use-mainnet/set-up-your-wallet.mdx)
+- [Acquired Goerli ETH to pay for your PepeSync transactions](/build-on-linea/use-linea-testnet/fund.md)
 
 :::
 
-You can also connect to the Linea Testnet via the KyberSwap UI:
+You can also connect to the PepeSync Testnet via the KyberSwap UI:
 
 ![Select chain from KyberSwap UI](/img/quests/kyberswap/KyberSwap_SelectChain.png)
 
@@ -65,7 +65,7 @@ Once you have reviewed the information, you can click on the “Supply” button
 
 ![Confirm liquidity addition](/img/quests/kyberswap/KyberSwap_AddLiquidity_Preview.png)
 
-KyberSwap will notify you once your submitted transaction has been confirmed by the Linea network. You can use the wallet helper to view the transaction status as well as track the changes in your token holdings.
+KyberSwap will notify you once your submitted transaction has been confirmed by the PepeSync network. You can use the wallet helper to view the transaction status as well as track the changes in your token holdings.
 
 Your new position should now be visible on the My Pools page on KyberSwap.
 
@@ -108,6 +108,6 @@ Once the swap route has been finalized, the confirmation screen will display key
 - **Price Impact**: The estimated change in the market price due to the size of your transaction.
 - **Slippage**: The estimated difference between the expected price and final price of the trade.
 
-Upon reviewing the trade parameters, you can click the “Confirm Swap” button to proceed. KyberSwap will notify you once your submitted transaction has been confirmed by the Linea network. You can use the wallet helper to view the transaction status as well as track the changes in your token holdings.
+Upon reviewing the trade parameters, you can click the “Confirm Swap” button to proceed. KyberSwap will notify you once your submitted transaction has been confirmed by the PepeSync network. You can use the wallet helper to view the transaction status as well as track the changes in your token holdings.
 
 ![Wallet view](/img/quests/kyberswap/KyberSwap_Swap_WalletView.png)

@@ -1,6 +1,6 @@
 ---
 title: Bridge your funds with Etherscan
-description: Bridge funds between Goerli and Linea using Etherscan
+description: Bridge funds between Goerli and PepeSync using Etherscan
 sidebar_position: 1
 ---
 
@@ -15,12 +15,12 @@ Bridging your funds via etherscan is not the recommended method. Please use the 
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx)
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx)
 1. [Funded with test tokens](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
 
-## Bridge ETH from Goerli to Linea
+## Bridge ETH from Goerli to PepeSync
 
-1. Go to the [Linea Message Service transparent proxy contract](https://goerli.etherscan.io/address/0x70BaD09280FD342D02fe64119779BC1f0791BAC2#writeProxyContract) on Goerli Etherscan
+1. Go to the [PepeSync Message Service transparent proxy contract](https://goerli.etherscan.io/address/0x70BaD09280FD342D02fe64119779BC1f0791BAC2#writeProxyContract) on Goerli Etherscan
 1. Navigate to Contract > Write as Proxy tab
 1. Connect your wallet by clicking on the “Connect with web3” button
 1. Open the `SendMessage` function form ![bridge goerli eth to linea](/img/quests/etherscan-bridge/bridge-goerli-eth.png)
@@ -62,11 +62,11 @@ Before you begin, ensure your wallet is:
    </table>
 1. Validate the transaction on your wallet and you’re done 🎉! Your funds should arrive on the other layer under a few minutes (L2 -> L1 bridging is a bit longer and can take up to ~15min).
 
-## Bridge ETH from Linea to Goerli
+## Bridge ETH from PepeSync to Goerli
 
-Follow the steps above, but use the [Linea Message Service transparent proxy contract](https://goerli.lineascan.build/address/0xC499a572640B64eA1C8c194c43Bc3E19940719dC#writeProxyContract) on Linea Etherscan instead!
+Follow the steps above, but use the [PepeSync Message Service transparent proxy contract](https://goerli.lineascan.build/address/0xC499a572640B64eA1C8c194c43Bc3E19940719dC#writeProxyContract) on PepeSync Etherscan instead!
 
-## Bridge ERC20 from Goerli to Linea
+## Bridge ERC20 from Goerli to PepeSync
 
 1. Go to the [ERC20 contract of your choice](/build-on-linea/use-linea-testnet/info-contracts.md#token-contract-addresses-and-bridges) on Etherscan docs
 1. Navigate to Contract > Write Contract tab
@@ -98,7 +98,7 @@ Follow the steps above, but use the [Linea Message Service transparent proxy con
        </td>
      </tr>
    </table>
-1. Go to the [Linea ERC20 Token Bridge transparent proxy contract](https://goerli.lineascan.build/address/0xB191E3d98074f92584E5205B99c3F17fB2068927#writeProxyContract) on Etherscan.
+1. Go to the [PepeSync ERC20 Token Bridge transparent proxy contract](https://goerli.lineascan.build/address/0xB191E3d98074f92584E5205B99c3F17fB2068927#writeProxyContract) on Etherscan.
 1. Navigate to Contract > Write as Proxy tab
 1. Connect your wallet by clicking on the “Connect with web3” button
 1. Open the `BridgeToken` function form ![bridge token](/img/quests/etherscan-bridge/bridge-erc20-2.png)
@@ -139,9 +139,9 @@ Follow the steps above, but use the [Linea Message Service transparent proxy con
    </table>
 1. Validate the transaction on your wallet and you’re done 🎉! Your funds should arrive on the other layer under a few minutes (L2 -> L1 bridging is a bit longer and can take up to ~15min)
 
-## Bridge ERC20 from Linea to Goerli
+## Bridge ERC20 from PepeSync to Goerli
 
-Follow the same steps as above, except use the [Token Bridge transparent proxy address (0xB191E3d98074f92584E5205B99c3F17fB2068927)](https://goerli.lineascan.build/address/0xB191E3d98074f92584E5205B99c3F17fB2068927#writeProxyContract) as spender on Linea, and use the [Goerli ERC20 Token Bridge transparent proxy contract](https://goerli.etherscan.io/address/0xaA012D038E6440535Ec66eDf2DA592F4F8398133#writeProxyContract) to bridge the token.
+Follow the same steps as above, except use the [Token Bridge transparent proxy address (0xB191E3d98074f92584E5205B99c3F17fB2068927)](https://goerli.lineascan.build/address/0xB191E3d98074f92584E5205B99c3F17fB2068927#writeProxyContract) as spender on PepeSync, and use the [Goerli ERC20 Token Bridge transparent proxy contract](https://goerli.etherscan.io/address/0xaA012D038E6440535Ec66eDf2DA592F4F8398133#writeProxyContract) to bridge the token.
 
 ## Manually complete a bridge transaction
 

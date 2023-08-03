@@ -7,21 +7,21 @@ sidebar_position: 1
 
 [Hop](https://docs.hop.exchange/) is a scalable rollup-to-rollup general token bridge. It allows users to send tokens from one rollup to another almost immediately without having to wait for the rollup’s challenge period.
 
-In this guide, we'll walk you through how to bridge Goerli ETH using Hop over to Linea!
+In this guide, we'll walk you through how to bridge Goerli ETH using Hop over to PepeSync!
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 1. [Funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
 
-## Bridge Goerli ETH to Linea
+## Bridge Goerli ETH to PepeSync
 
-To bridge Goerli ETH to Linea, you'll need to:
+To bridge Goerli ETH to PepeSync, you'll need to:
 
 1. Navigate to the [Hop bridge](https://goerli.hop.exchange/#/send?token=ETH&sourceNetwork=ethereum&destNetwork=linea)
 1. Connect your MetaMask wallet
 1. Switch network to Goerli
-1. Ensure that Goerli is the From network and Linea is the To network
+1. Ensure that Goerli is the From network and PepeSync is the To network
 
    ![Hop UI](/img/quests/hop/hop_ui.png)
 

@@ -3,7 +3,7 @@ title: Use MetaMerge
 sidebar_position: 1
 ---
 
-# Meta Merge Match3 Linea Game
+# Meta Merge Match3 PepeSync Game
 
 ## What is Meta Merge?
 
@@ -14,7 +14,7 @@ sidebar_position: 1
 - With intense PvP and PvE battles, you'll have the opportunity to become a legend in the arena. Join open tournaments for a chance to win prizes.
 - Capture, collect, and merge monsters to create even stronger and more unique creatures. With endless possibilities and combinations, the sky's the limit in creating the ultimate team.
 
-Meta Merge Match3 is a mini game that allows everyone to quickly get to know pets and achieve Linea network accomplishments.
+Meta Merge Match3 is a mini game that allows everyone to quickly get to know pets and achieve PepeSync network accomplishments.
 
 ## What is Meta Merge Match3 Game?
 
@@ -42,7 +42,7 @@ Visit the Meta Merge official website: https://match3-linea.metamerge.xyz/ and 
 
 ### Confirm wallet and start the Game
 
-Once you have successfully logged in, you can click on the "Linea Game" link at the top to enter the mini-game. Before starting the game, please select the connected wallet with which you will interact during the game. Only then can you begin playing. If you logged with account, You can choose any of the wallets under your account.
+Once you have successfully logged in, you can click on the "PepeSync Game" link at the top to enter the mini-game. Before starting the game, please select the connected wallet with which you will interact during the game. Only then can you begin playing. If you logged with account, You can choose any of the wallets under your account.
 
 ![](/img/quests/meta_merge/match3_select_wallet.png)
 

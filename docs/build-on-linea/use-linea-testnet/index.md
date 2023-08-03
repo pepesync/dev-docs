@@ -1,9 +1,9 @@
 ---
-title: Use Linea Goerli Testnet
+title: Use PepeSync Goerli Testnet
 sidebar_position: 5
 ---
 
-Linea is meant to be fully compatible with Ethereum, full stop. There are already a lot of dapps that have deployed to the network—and if there's one that hasn't deployed (for example, yours 👀) we're here to help you get it there.
+PepeSync is meant to be fully compatible with Ethereum, full stop. There are already a lot of dapps that have deployed to the network—and if there's one that hasn't deployed (for example, yours 👀) we're here to help you get it there.
 
 This section should walk you through everything you need to get started:
 
@@ -13,4 +13,4 @@ This section should walk you through everything you need to get started:
 4. [Get funds from a faucet](../use-linea-testnet/fund.md)
 5. [Send a transaction](../use-linea-testnet/transact.md)
 
-If you run into a problem, step on over to the [Linea Support page](https://support.linea.build/hc/en-us) and let us know.
+If you run into a problem, step on over to the [PepeSync Support page](https://support.linea.build/hc/en-us) and let us know.

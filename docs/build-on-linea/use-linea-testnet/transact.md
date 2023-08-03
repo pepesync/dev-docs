@@ -6,11 +6,11 @@ sidebar_position: 5
 
 # Transfer funds between accounts
 
-You can use your MetaMask wallet to transfer funds between accounts in the Linea network.
+You can use your MetaMask wallet to transfer funds between accounts in the PepeSync network.
 
 To do this:
 
-1. Open MetaMask and select **Linea** from the network dropdown.
+1. Open MetaMask and select **PepeSync** from the network dropdown.
 1. Select **Send**.
 1. Type the address that you want to transfer funds to, or select **Transfer between my accounts** if the account belongs to your wallet.
 1. Type the amount to transfer.

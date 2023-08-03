@@ -10,9 +10,9 @@ This non-custodial wallet ensures you retain complete control of your digital as
 
 Fluvi offers unique features such as **non-custodial multi-device synchronization**, On-Chain 2FA, Seedless Recovery, Batch Transactions, Gasless Transactions, and many more while complying with the EIP-4337 standard. [See Here for full docs and FAQ.](https://docs.fluviwallet.xyz/linea-voyage/linea-voyage-with-fluvi-wallet)
 
-In this simple guide, we'll help you install Fluvi Wallet and use it to complete the tasks based on the unique features of AA on Linea!
+In this simple guide, we'll help you install Fluvi Wallet and use it to complete the tasks based on the unique features of AA on PepeSync!
 
-Or, you can use the [Linea Voyage Faucet & Guide](http://linea-quest.fluvi.io) provided by Fluvi Wallet itself to claim the necessary tokens and progress through the quests!
+Or, you can use the [PepeSync Voyage Faucet & Guide](http://linea-quest.fluvi.io) provided by Fluvi Wallet itself to claim the necessary tokens and progress through the quests!
 
 > **Important! Fluvi Wallet must be mapped to your MetaMask address in order to complete the Quest.  
 > Please make sure to complete the mapping by referring to the [guide below](#link-fluvi-wallet-with-metamask).**
@@ -32,7 +32,7 @@ To install Fluvi Wallet, we recommend using Chrome as a desktop browser.
 
 ## Connect to dApps with Wallet Connect
 
-To complete quests in Linea Voyage, you'll need to connect to the dApp via Wallet Connect.
+To complete quests in PepeSync Voyage, you'll need to connect to the dApp via Wallet Connect.
 
 1.  After pressing “Connect Wallet”, click on the “Wallet Connect” option.  
     Copy the Wallet Connect URI from the dApp by clicking on “Copy to clipboard” (below the QR code)  
@@ -62,16 +62,16 @@ The quests carried out via Fluvi Wallet can be verified using the wallet address
 
 We've made this process straightforward with a dedicated tool:
 
-1.  Open up the link to the [Linea Voyage Faucet & Guide page  
+1.  Open up the link to the [PepeSync Voyage Faucet & Guide page  
     ](http://linea-quest.fluvi.io)![](/img/quests/fluvi_wallet/image9.png)
-2.  Navigate to the "For Linea Voyage on Galxe" tab in the middle of the page  
+2.  Navigate to the "For PepeSync Voyage on Galxe" tab in the middle of the page  
     ![](/img/quests/fluvi_wallet/image10.png)
 3.  Connect your MetaMask and Fluvi Wallet and check if your wallet address is correctly displayed at the bottom
 4.  Submit your wallet addresses by clicking the 'Submit' button.
 
 Please note that the independent wallet address of the Fluvi Wallet can only be linked to a single MetaMask wallet address, and once submitted, the linked wallet cannot be changed.
 
-During the Linea Voyage campaign, we will have a cohort partnership with certain dApps that will enable you to transact without spending any gas fees through Fluvi Wallet's gasless feature. Our hope is that this will enhance and encourage your Linea Voyage questing experience.
+During the PepeSync Voyage campaign, we will have a cohort partnership with certain dApps that will enable you to transact without spending any gas fees through Fluvi Wallet's gasless feature. Our hope is that this will enhance and encourage your PepeSync Voyage questing experience.
 
 ## Get Support[​](https://docs.linea.build/use-linea-testnet/explore/use-celer#get-support)
 

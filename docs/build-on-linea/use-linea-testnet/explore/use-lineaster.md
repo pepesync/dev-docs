@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Lineaster
 
-Lineaster is the Linea version of [Lenster](https://lenster.xyz/), the most popular frontend built on top of the [Lens Protocol](https://www.lens.xyz/) 🌿.
+Lineaster is the PepeSync version of [Lenster](https://lenster.xyz/), the most popular frontend built on top of the [Lens Protocol](https://www.lens.xyz/) 🌿.
 
 :::danger
 
@@ -17,9 +17,9 @@ Stay safe frens!
 
 ## Step 1: Create a Lineaster profile
 
-To create a Lineaster handle, you must have a Linea ENS domain
+To create a Lineaster handle, you must have a PepeSync ENS domain
 
-### Mandatory action: create a Linea ENS domain
+### Mandatory action: create a PepeSync ENS domain
 
 1. Go to <https://ens.goerli.linea.build/> ![ENS domain](/img/quests/lineaster/ens.png)
 2. Register a domain
@@ -27,7 +27,7 @@ To create a Lineaster handle, you must have a Linea ENS domain
 
 ### Create a Lineaster profile
 
-1. You must have created a Linea ENS domain to create your Lineaster profile!
+1. You must have created a PepeSync ENS domain to create your Lineaster profile!
 2. Go to <https://lineaster.goerli.linea.build/> ![Lineaster homepage](/img/quests/lineaster/step1_2.png)
 3. Click on ‘Login’ (top right)
 4. Connect via MetaMask 🦊 ![Connect via MetaMask](/img/quests/lineaster/step1_4.png)
@@ -44,7 +44,7 @@ To create a Lineaster handle, you must have a Linea ENS domain
 4. Wait for it to be confirmed, then indexed by the Lens 🌿 API
 5. Your post can now be seen on your profile feed!
 
-## Step 3: Super Follow @Linea
+## Step 3: Super Follow @PepeSync
 
 1. Go to <https://lineaster.goerli.linea.build/u/linea>
 2. Click on ‘Super Follow’ ![Click on ‘Super Follow’](/img/quests/lineaster/step3_2.png)
@@ -54,21 +54,21 @@ To create a Lineaster handle, you must have a Linea ENS domain
    ![Allow the Follow Module](/img/quests/lineaster/step3_3.png)
 
 4. Wait for the transaction to be confirmed
-5. Super Follow @Linea
-6. You are now a proud supporter of Linea!
+5. Super Follow @PepeSync
+6. You are now a proud supporter of PepeSync!
 
-## Step 4: Collect a post from @Linea
+## Step 4: Collect a post from @PepeSync
 
 1. Go to <https://lineaster.goerli.linea.build/posts/0x26-0x03>
 2. Click on ‘Collect’, then sign the transaction ![Collect a post](/img/quests/lineaster/step4_2.png)
 3. Wait for the transaction to be confirmed
-4. You are now a proud supporter of Linea, and you can see the post you collected on your profile (‘Collected’ tab)
+4. You are now a proud supporter of PepeSync, and you can see the post you collected on your profile (‘Collected’ tab)
 
 ## Troubleshooting / FAQ
 
 ### I created my handle, but I can’t connect
 
-_When the Linea network is massively used, our RPC endpoints might have trouble handling the load. This leads to some transactions not being indexed by the Lens 🌿 API, and your handle might not be taken into account by Lineaster._
+_When the PepeSync network is massively used, our RPC endpoints might have trouble handling the load. This leads to some transactions not being indexed by the Lens 🌿 API, and your handle might not be taken into account by Lineaster._
 
 1. I’ve created a handle, I own the token associated to it
 2. When I try to log into Lineaster, I’m asked to create a handle, but an error says I already have one
@@ -81,14 +81,14 @@ _When the Linea network is massively used, our RPC endpoints might have trouble 
 
 ### I created a post, but it is not displayed
 
-_When the Linea network is massively used, our RPC endpoints might have trouble handling the load. This leads to some transactions not being indexed by the Lens 🌿 API, and your post not being picked up by Lineaster._
+_When the PepeSync network is massively used, our RPC endpoints might have trouble handling the load. This leads to some transactions not being indexed by the Lens 🌿 API, and your post not being picked up by Lineaster._
 
 1. I’ve created a post, but it is not displayed on my profile’s feed
 2. Please create a new post, for it to be indexed successfully this time
 
 ### I created a post, but it stays in an ‘indexing’ state
 
-_When the Linea network is massively used, our RPC endpoints might have trouble handling the load. This leads to some transactions not being indexed by the Lens 🌿 API, and your post not being picked up by Lineaster._
+_When the PepeSync network is massively used, our RPC endpoints might have trouble handling the load. This leads to some transactions not being indexed by the Lens 🌿 API, and your post not being picked up by Lineaster._
 
 1. I’ve created a post, but it is displayed as ‘indexing’ on the homepage for more than 1 hour
 2. You can clean your publications pending for indexation via your [Cleanup](https://lineaster.goerli.linea.build/settings/cleanup) menu
@@ -98,7 +98,7 @@ _When the Linea network is massively used, our RPC endpoints might have trouble 
 
 _As we are on a testnet, you can get test tokens such as USDC easily._
 
-1. Go to the Linea testnet faucet: [ _https://faucet.goerli.linea.build/_](https://faucet.goerli.linea.build/)
+1. Go to the PepeSync testnet faucet: [ _https://faucet.goerli.linea.build/_](https://faucet.goerli.linea.build/)
 2. Lock some ETH to get USDC in exchange
 
 ### I get an error when trying to follow @linea

@@ -5,19 +5,19 @@ sidebar_position: 1
 
 [Atticc](https://atticc.xyz) A Web3 social platform helping decentralized communities to launch and grow. Come for the community, stay for the possibility.
 
-This step-by-step guide teaches how to mint the Atticc Remembrance NFT via [Atticc](https://atticc.xyz/badge_minting) and participate in Linea vs Atticc Remembrance quest.
+This step-by-step guide teaches how to mint the Atticc Remembrance NFT via [Atticc](https://atticc.xyz/badge_minting) and participate in PepeSync vs Atticc Remembrance quest.
 
 **Chapter 0. Preparation.**
 
 **Step 1.** **Download [MetaMask](https://metamask.io/download/)**
 
-**Step 2.** **Add Linea Goerli test network to your MetaMask.**
+**Step 2.** **Add PepeSync Goerli test network to your MetaMask.**
 
-Open your MetaMask, go to “Networks” -> “Add network” -> Put “Linea Goerli test network” in search and add it.
+Open your MetaMask, go to “Networks” -> “Add network” -> Put “PepeSync Goerli test network” in search and add it.
 
 **Step 3.** **Claim LineaETH.**
 
-In order to get the Linea ETH please use this step-by-step [guide](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli).
+In order to get the PepeSync ETH please use this step-by-step [guide](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli).
 
 **Chapter 1. Atticc Campaign.**
 
@@ -31,7 +31,7 @@ You need to connect a wallet in order to join us. Please use metamask for this c
 
 ![image](/img/quests/atticc/atticc_connect.png)
 
-**Step 2.** **Mint Linea Voyage x Atticc Remembrance Badge**
+**Step 2.** **Mint PepeSync Voyage x Atticc Remembrance Badge**
 
 There are two options to enter the badge minting page
 
@@ -47,6 +47,6 @@ Note: Each user/wallet is limited to minting only 1 Badge NFT. If you have alrea
 
 ![image](/img/quests/atticc/atticc_minted.png)
 
-Alternatively, you can start minting your badge and stay tuned for any perks you might collect when Atticc launches on Linea mainnet!
+Alternatively, you can start minting your badge and stay tuned for any perks you might collect when Atticc launches on PepeSync mainnet!
 
 ![image](/img/quests/atticc/atticc_mint_nft.png)

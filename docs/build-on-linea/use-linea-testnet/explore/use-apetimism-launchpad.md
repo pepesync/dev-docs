@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # Apetimism Launchpad
 
-Apetimism Launchpad is a no-code platform that allows you to create, manage, and mint NFT collections without the need for technical knowledge. This guide will provide step-by-step instructions on how to mint an NFT on Linea using a project deployed through the Apetimism Launchpad.
+Apetimism Launchpad is a no-code platform that allows you to create, manage, and mint NFT collections without the need for technical knowledge. This guide will provide step-by-step instructions on how to mint an NFT on PepeSync using a project deployed through the Apetimism Launchpad.
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 2. [Funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
 
 ## Mint an NFT
@@ -21,7 +21,7 @@ We have already prepared a sample collection.
 
 ![mint page](/img/quests/apetimism_launchpad/mint_page.jpg)
 
-2. Please ensure that Linea Testnet is selected as the current chain on your wallet.
+2. Please ensure that PepeSync Testnet is selected as the current chain on your wallet.
 
 3. Click the "+" symbol to select the desired quantity of NFTs you wish to mint. Please note that for this collection, a maximum of 2 NFTs is allowed.
 

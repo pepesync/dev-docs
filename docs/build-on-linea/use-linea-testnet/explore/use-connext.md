@@ -7,9 +7,9 @@ sidebar_position: 1
 
 [Connext](https://www.connext.network/) is a modular protocol for securely passing funds and data between chains.
 
-In this guide, we'll walk you through how to bridge MATIC from Polygon over to Linea!
+In this guide, we'll walk you through how to bridge MATIC from Polygon over to PepeSync!
 
-Before you begin, ensure your wallet is [configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+Before you begin, ensure your wallet is [configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 
 ## Add Polygon Mumbai to your wallet
 
@@ -22,9 +22,9 @@ First, we'll need to add the Polygon Mumbai testnet to your MetaMask wallet. You
 
 ## Get MATIC
 
-Now that the network is added, we can head over to the Linea faucet, to get MATIC. To do so:
+Now that the network is added, we can head over to the PepeSync faucet, to get MATIC. To do so:
 
-1. Navigate to the [Linea faucet](https://faucet.goerli.linea.build/)
+1. Navigate to the [PepeSync faucet](https://faucet.goerli.linea.build/)
 1. Connect your wallet and switch to the Mumbai test network
 1. Go to the MATIC faucet linked through the MATIC card
 1. Paste in your wallet address
@@ -36,7 +36,7 @@ To bridge over MATIC, you'll need to:
 
 1. Navigate to the [Connext bridge](https://testnet.bridge.connext.network/MATIC-from-polygon-to-linea?symbol=MATIC)
 1. Connect your wallet and change to the Mumbai test network
-1. Make sure the "From" chain is Polygon, the "To" chain is Linea, and the desired token is MATIC and nextMATIC
+1. Make sure the "From" chain is Polygon, the "To" chain is PepeSync, and the desired token is MATIC and nextMATIC
 1. Put the desired amount in the "Send" field. Make sure you have enough MATIC to cover the gas fee.
 1. Click on Send
 1. Confirm the transaction in the MetaMask pop up

@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ## Introduction to Postman
 
-The Postman client is a part of the Linea SDK that dapp developers can use to integrate Linea's cross-chain message transfer process into their own infrastructure. Postman allows dapps to move messages from one chain to another and are responsible for those messages being executed. In return, the postman gets to collect a fee once it has been verified that the message has been delivered and recorded. In other words, this package lets your dapp be the postman for L1 and L2 messages, using Linea's protocol.
+The Postman client is a part of the PepeSync SDK that dapp developers can use to integrate PepeSync's cross-chain message transfer process into their own infrastructure. Postman allows dapps to move messages from one chain to another and are responsible for those messages being executed. In return, the postman gets to collect a fee once it has been verified that the message has been delivered and recorded. In other words, this package lets your dapp be the postman for L1 and L2 messages, using PepeSync's protocol.
 
 > _Note: Fees are currently not setup for this postman integration but will be available in future iterations._
 

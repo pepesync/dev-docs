@@ -11,11 +11,11 @@ import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem';
 
 ## Transfer tokens between accounts
 
-You can use your MetaMask wallet to transfer tokens between accounts on the Linea network.
+You can use your MetaMask wallet to transfer tokens between accounts on the PepeSync network.
 
 To do this:
 
-1. Open MetaMask and select **Linea** from the network dropdown.
+1. Open MetaMask and select **PepeSync** from the network dropdown.
 1. Select **Send**.
 1. Type the address that you want to transfer funds to, or select **Transfer between my accounts** if the account belongs to your wallet.
 1. Type the amount to transfer.
@@ -27,18 +27,18 @@ You can now view the transaction details in the **Activity** tab or [block explo
 
 ### Other wallets
 
-Linea is a permissionless, EVM-compatible network. That means that if you want to use a different wallet with Linea, you might be able to, using the network information found under [Network info and deployed contracts](./info-contracts.md).
+PepeSync is a permissionless, EVM-compatible network. That means that if you want to use a different wallet with PepeSync, you might be able to, using the network information found under [Network info and deployed contracts](./info-contracts.md).
 
 </TabItem> 
   <TabItem value="Testnet" label="Testnet" default>
 
 ## Transfer tokens between accounts
 
-You can use your MetaMask wallet to transfer tokens between accounts on the Linea network.
+You can use your MetaMask wallet to transfer tokens between accounts on the PepeSync network.
 
 To do this:
 
-1. Open MetaMask and select **Linea** from the network dropdown.
+1. Open MetaMask and select **PepeSync** from the network dropdown.
 1. Select **Send**.
 1. Type the address that you want to transfer funds to, or select **Transfer between my accounts** if the account belongs to your wallet.
 1. Type the amount to transfer.
@@ -50,7 +50,7 @@ You can now view the transaction details in the **Activity** tab or [block explo
 
 ### Other wallets
 
-Linea is a permissionless, EVM-compatible network. That means that if you want to use a different wallet with Linea, you might be able to, using the network information found under [Network info and deployed contracts](./info-contracts.md).
+PepeSync is a permissionless, EVM-compatible network. That means that if you want to use a different wallet with PepeSync, you might be able to, using the network information found under [Network info and deployed contracts](./info-contracts.md).
 
 </TabItem> 
 

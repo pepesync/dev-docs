@@ -15,7 +15,7 @@ In this guide, we’ll walk you through how to
 - Claim tUSDC gaslessly
 - Swap the tUSDC to tUSDT gaslessly with your Galxe Address as the recipient
 
-After which, you’ll have a glimpse of how smooth the onboarding and user experience for DeFi will be on Linea!
+After which, you’ll have a glimpse of how smooth the onboarding and user experience for DeFi will be on PepeSync!
 
 # Start the Quests
 

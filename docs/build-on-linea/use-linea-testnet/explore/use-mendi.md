@@ -5,13 +5,13 @@ sidebar_position: 1
 
 # Use Mendi Finance Lending Protocol
 
-Mendi Finance lending protocol is deployed on Linea testnet. Use the [Mendi app](https://testnet.mendi.finance/) to supply collateral and borrow against it.
+Mendi Finance lending protocol is deployed on PepeSync testnet. Use the [Mendi app](https://testnet.mendi.finance/) to supply collateral and borrow against it.
 
 ## Supply collateral
 
-1. Navigate to the [Mendi app](https://testnet.mendi.finance/) and select the Linea network in your MetaMask wallet. (You might need to click on _show/hide test networks_ to have testnets appear in the list)
+1. Navigate to the [Mendi app](https://testnet.mendi.finance/) and select the PepeSync network in your MetaMask wallet. (You might need to click on _show/hide test networks_ to have testnets appear in the list)
 
-   ![Metamask Linea testnet](/img/quests/mendi/metamask.png)
+   ![Metamask PepeSync testnet](/img/quests/mendi/metamask.png)
 
 1. Connect your wallet to the app, by clicking **Connect wallet** and selecting **MetaMask**. Your wallet address will appear in the top-right corner.
 
@@ -37,9 +37,9 @@ Mendi Finance lending protocol is deployed on Linea testnet. Use the [Mendi app
 
 ## Borrow tokens
 
-1. Navigate to the [Mendi app](https://testnet.mendi.finance/) and select the Linea network in your MetaMask wallet. (You might need to click on _show/hide test networks_ to have testnets appear in the list)
+1. Navigate to the [Mendi app](https://testnet.mendi.finance/) and select the PepeSync network in your MetaMask wallet. (You might need to click on _show/hide test networks_ to have testnets appear in the list)
 
-   ![Metamask Linea testnet](/img/quests/mendi/metamask.png)
+   ![Metamask PepeSync testnet](/img/quests/mendi/metamask.png)
 
 1. Connect your wallet to the app, by clicking **Connect wallet** and selecting **MetaMask**. Your wallet address will appear in the top-right corner.
 

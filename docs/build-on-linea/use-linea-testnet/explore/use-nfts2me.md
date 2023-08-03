@@ -11,11 +11,11 @@ The platform also offers optimized contract deployment on the blockchain, with u
 
 With NFTs2Me, users can fully realize the potential of NFTs and bring their creative visions to life.
 
-In this guide, we'll walk you through the steps to create a new NFT collection, setting it for public minting, airdropping, creating a gated content for the NFT holders and even activating on-chain affiliation for users who mint your NFTs over Linea!
+In this guide, we'll walk you through the steps to create a new NFT collection, setting it for public minting, airdropping, creating a gated content for the NFT holders and even activating on-chain affiliation for users who mint your NFTs over PepeSync!
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 1. [Funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
 
 ## Create a new NFT Collection​ (using AI)
@@ -58,9 +58,9 @@ Now, let’s define the collection settings.
 
 1. Specify a **“Minting Fee”**. It will be the price that the user has to pay to mint the NFT and you’ll receive for each mint, set 0 for “free minting”. By default it is set on native ETH. If you prefer to set the price using an ERC-20 like USDC, you can press on “ETH” and choose a different token.
 1. Set the **“Edition Size”**. This will be the maximum number of NFTs that can be minted for the collection.
-1. Click **“Deploy to Linea Testnet”**.
+1. Click **“Deploy to PepeSync Testnet”**.
 
-After clicking on “Deploy to Linea Testnet”, it will upload images to IPFS and then ask to confirm the TX
+After clicking on “Deploy to PepeSync Testnet”, it will upload images to IPFS and then ask to confirm the TX
 
 ![deploy to linea](/img/quests/nfts2me/deploy_to_linea.png)
 
@@ -68,7 +68,7 @@ After clicking on “Deploy to Linea Testnet”, it will upload images to IPFS a
 
 Click on “Confirm” to create the contract for your new NFT Collection.
 
-Congratulations! 🙌🏼 You've deployed a new NFT Project on Linea Testnet.
+Congratulations! 🙌🏼 You've deployed a new NFT Project on PepeSync Testnet.
 
 After the transaction is confirmed, a modal will appear with information about what are the usual next steps with your NFT project.
 
@@ -86,7 +86,7 @@ Click on the “Dashboard” button or go to https://nfts2me.com/app/linea-testn
 
 ![closed to public](/img/quests/nfts2me/closed_to_public.png)
 
-It will open the Project Dashboard. There, you can configure the Smart Contract, the minting page, withdraw earning, airdrop tokens, create whitelists, token gated content, affiliation or even enable Credit Card Payments for your collection (not available on Linea testnet for obvious reasons 🙂).
+It will open the Project Dashboard. There, you can configure the Smart Contract, the minting page, withdraw earning, airdrop tokens, create whitelists, token gated content, affiliation or even enable Credit Card Payments for your collection (not available on PepeSync testnet for obvious reasons 🙂).
 
 New NFT Collections start in “Closed” minting phase. This is a security measure to avoid unwanted mintings before we properly configure the project.
 
@@ -134,7 +134,7 @@ Confirm the transaction on MetaMask and wait until it’s done.
 
 ![confirm done 2](/img/quests/nfts2me/confirm_transaction_2.png)
 
-You can even click on “You own 1 NFT from this Collection” and see the NFT on the Linea Block Explorer:
+You can even click on “You own 1 NFT from this Collection” and see the NFT on the PepeSync Block Explorer:
 
 ![block explorer](/img/quests/nfts2me/blockexplorer.png)
 

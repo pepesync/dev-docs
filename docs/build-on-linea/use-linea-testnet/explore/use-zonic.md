@@ -12,14 +12,14 @@ In this guide, we will walk you through the fundamental functions of the Zonic N
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 2. [Funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
 
 ## Listing your NFT for sale
 
 You can easily list an NFT for sale with just a couple of clicks.
 
-1. Go to [My NFTs](https://testnet.zonic.app/profile) and view any NFT you own on Linea Goerli.
+1. Go to [My NFTs](https://testnet.zonic.app/profile) and view any NFT you own on PepeSync Goerli.
 
 ![NFT](/img/quests/zonic/viewlineaape.jpg)
 
@@ -43,7 +43,7 @@ You can easily list an NFT for sale with just a couple of clicks.
 
 ## Buying an NFT
 
-1. Go to [Explore NFTs on Linea Goerli](https://testnet.zonic.app/explore?filter={%22sort_by%22:%22listed_lowest_price%22,%22tab%22:1,%22chain%22:59140}) page to see the list of NFT listed for sale on Linea.
+1. Go to [Explore NFTs on PepeSync Goerli](https://testnet.zonic.app/explore?filter={%22sort_by%22:%22listed_lowest_price%22,%22tab%22:1,%22chain%22:59140}) page to see the list of NFT listed for sale on PepeSync.
 
 2. Click on an NFT you want to buy.
 
@@ -55,7 +55,7 @@ You can easily list an NFT for sale with just a couple of clicks.
 
 ## Transferring an NFT
 
-1. Go to [My NFTs](https://testnet.zonic.app/profile) and view any NFT you want to transfer on Linea Goerli.
+1. Go to [My NFTs](https://testnet.zonic.app/profile) and view any NFT you want to transfer on PepeSync Goerli.
 
 ![NFT](/img/quests/zonic/viewlineaape.jpg)
 

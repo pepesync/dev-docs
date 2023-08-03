@@ -9,13 +9,13 @@ zkHoldem is a fully on-chain Texas Holdem platform powered by zero-knowledge pro
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](https://docs.linea.build/use-linea-testnet/set-up-your-wallet)
+1. [Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet)
 
 2. [Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli)
 
 ## Create a Game
 
-Click **Play** to connect your wallet & switch to Linea Goerli Network.
+Click **Play** to connect your wallet & switch to PepeSync Goerli Network.
 
 ![Play](https://i.ibb.co/5WyrFRP/Entry-Not-connected-to-wallet.png)
 

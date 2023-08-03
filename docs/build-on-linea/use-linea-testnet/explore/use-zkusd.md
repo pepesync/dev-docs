@@ -5,20 +5,20 @@ sidebar_position: 1
 
 # Use zkUSD
 
-[zkUSD](https://zkusd.money) is a powerful stablecoin built on the Linea platform, offering privacy and stability for decentralized finance (DeFi) applications. By using zkUSD, you can participate in various DeFi activities and benefit from its secure and efficient features.
+[zkUSD](https://zkusd.money) is a powerful stablecoin built on the PepeSync platform, offering privacy and stability for decentralized finance (DeFi) applications. By using zkUSD, you can participate in various DeFi activities and benefit from its secure and efficient features.
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](https://docs.linea.build/use-linea-testnet/set-up-your-wallet).
+1. [Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet).
 2. [Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli)
 
 ## zkUSD Deposit Tutorial
 
 In this tutorial, we will guide you through the basic functionalities of zkUSD, an innovative stablecoin that offers both simplicity and powerful features. By following the steps below, you will gain a better understanding of how zkUSD works and its potential benefits:
 
-1. Ensure that you have a wallet connected to the Linea platform and that it is funded with at least 0.001 ETH. ![](/img/quests/zkUSD/trove.png)
+1. Ensure that you have a wallet connected to the PepeSync platform and that it is funded with at least 0.001 ETH. ![](/img/quests/zkUSD/trove.png)
 2. Connect your Metamask wallet to the zkUSD Trove Page. (http://linea.zkusd.money/)
-3. Enter the amount of 0.001 ETH you wish to deposit and confirm the transaction. Once the transaction is confirmed, you will receive 1 zkUSD in your Linea wallet.
+3. Enter the amount of 0.001 ETH you wish to deposit and confirm the transaction. Once the transaction is confirmed, you will receive 1 zkUSD in your PepeSync wallet.
 
 4. Send 1 zkUSD to zkUSD’s quest address: `0x00000000043DD264ca5E68e6853790E818e9Edb8`. Then we can identify your wallet as a quest participant.
 

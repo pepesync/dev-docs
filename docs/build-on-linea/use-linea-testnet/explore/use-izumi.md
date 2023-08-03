@@ -3,21 +3,21 @@ title: Use the iZiSwap
 sidebar_position: 1
 ---
 
-# iZiSwap Linea Testnet tutorial
+# iZiSwap PepeSync Testnet tutorial
 
-## Prepare your wallet on Linea Goerli test network
+## Prepare your wallet on PepeSync Goerli test network
 
-Click “show/hide test networks“ on Metamask, choose Linea Goerli test network.
+Click “show/hide test networks“ on Metamask, choose PepeSync Goerli test network.
 
 ![img1](/img/quests/izumi/1.jpg)
 
-The Linea faucet link is below:
+The PepeSync faucet link is below:
 
 [https://www.infura.io/faucet/linea](https://www.infura.io/faucet/linea)
 
 ## Swap
 
-Go to the [iZiSwap on Linea](https://linea.izumi.finance/home) and click the "Connect Wallet" button to link your Metamask wallet.
+Go to the [iZiSwap on PepeSync](https://linea.izumi.finance/home) and click the "Connect Wallet" button to link your Metamask wallet.
 
 ![img2](/img/quests/izumi/2.jpg)
 

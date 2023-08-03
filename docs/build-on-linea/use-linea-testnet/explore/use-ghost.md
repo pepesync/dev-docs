@@ -9,22 +9,22 @@ ghostNFT is the first application of ERC721Envious Standard aimed at adding coll
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 1. [Funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli) (at least .06 ETH)
 
-## Get DAI on Linea testnet
+## Get DAI on PepeSync testnet
 
-You can get DAI by navigating to the [Linea faucet](/build-on-linea/use-linea-testnet/fund.md). Then,
+You can get DAI by navigating to the [PepeSync faucet](/build-on-linea/use-linea-testnet/fund.md). Then,
 
 1. Connect your wallet to Goerli
 1. [Lock .01 ETH to mint DAI](/build-on-linea/use-linea-testnet/fund.md/#get-other-tokens-on-goerli) ![lock dai](/img/quests/ghost/lock_dai.png)
-1. [Bridge DAI from Goerli to Linea](https://goerli.hop.exchange/#/send?token=DAI&sourceNetwork=ethereum&destNetwork=linea)
+1. [Bridge DAI from Goerli to PepeSync](https://goerli.hop.exchange/#/send?token=DAI&sourceNetwork=ethereum&destNetwork=linea)
 
 ## Claim FREE JML gNFT
 
 JML gNFT is a dynamic NFT that becomes rarer as you add more collateral in GMV tokens. Follow easy steps below to claim your free JML gNFT.
 
-1. Visit [ghostAirdrop](https://airdrop.ghostchain.io/#/linea/0xD500EFDef75E89Bf6caF5C98F7633575d0049a72) on Linea Testnet. Make sure that the Linea network is selected in the drop down. ![ghost airdrop](/img/quests/ghost/ghost_airdrop.png)
+1. Visit [ghostAirdrop](https://airdrop.ghostchain.io/#/linea/0xD500EFDef75E89Bf6caF5C98F7633575d0049a72) on PepeSync Testnet. Make sure that the PepeSync network is selected in the drop down. ![ghost airdrop](/img/quests/ghost/ghost_airdrop.png)
 1. Connect your MetaMask wallet and click on the **Claim Free gNFT NOW**. ![claim airdrop](/img/quests/ghost/claim_airdrop.png)
 1. You will be automatically redirected to your personal ghostAirdrop dashboard. ![dashboard](/img/quests/ghost/airdrop_dashboard.png)
 
@@ -51,11 +51,11 @@ Now all is ready to move to the final stages.
 
 Any NFT collection can be collateralized through ghostNFT.
 
-1. Visit [ghostNFT](https://app.nft.ghostchain.io/#/linea), and make sure Linea Testnet is selected in the dropdown. ![ghostNFT](/img/quests/ghost/ghostnft.png)
+1. Visit [ghostNFT](https://app.nft.ghostchain.io/#/linea), and make sure PepeSync Testnet is selected in the dropdown. ![ghostNFT](/img/quests/ghost/ghostnft.png)
 1. Paste the contract address of your NFT collection in the search bar. If such collection has not been registered yet, the modal window will pop-up: ![register collection](/img/quests/ghost/register_collection.png)
 1. Connect your wallet and proceed to fill out the required fields. Use [ghostNFT docs](https://docs.nft.ghostchain.io/en/latest/envious-house-usage.html) for further guidance.
 
-**IMPORTANT**: Minimum amount to be dispersed to all tokenIds in the collection is 0.044 Linea-ETH. Make sure to have this amount in your MetaMask.
+**IMPORTANT**: Minimum amount to be dispersed to all tokenIds in the collection is 0.044 PepeSync-ETH. Make sure to have this amount in your MetaMask.
 
 ![disperse min](/img/quests/ghost/min_amt.png)
 
@@ -81,9 +81,9 @@ You can as easily redeem the entire balance you placed as collateral.
 
 ## Collateralize your JML gNFT
 
-In the similar fashion, you can add and redeem collateral from your JML gNFT that you minted via [ghostAirdrop](https://airdrop.ghostchain.io/#/linea/0xD500EFDef75E89Bf6caF5C98F7633575d0049a72) on Linea Testnet.
+In the similar fashion, you can add and redeem collateral from your JML gNFT that you minted via [ghostAirdrop](https://airdrop.ghostchain.io/#/linea/0xD500EFDef75E89Bf6caF5C98F7633575d0049a72) on PepeSync Testnet.
 
-1. Visit [ghostAirdrop](https://airdrop.ghostchain.io/#/linea/0xD500EFDef75E89Bf6caF5C98F7633575d0049a72) on Linea Testnet. Make sure that the Linea testnet is selected in the drop down.
+1. Visit [ghostAirdrop](https://airdrop.ghostchain.io/#/linea/0xD500EFDef75E89Bf6caF5C98F7633575d0049a72) on PepeSync Testnet. Make sure that the PepeSync testnet is selected in the drop down.
 1. Click on the **NFT Profile** button to be redirected to the ghostNFT profile. ![nft profile](/img/quests/ghost/nft_profile.png)
 1. In a similar fashion, go ahead and add ETH and DAI collateral. ![add collateral](/img/quests/ghost/add_collateral_2.png)
 1. Start with adding ETH collateral. ![eth collateral](/img/quests/ghost/eth_collateral.png)

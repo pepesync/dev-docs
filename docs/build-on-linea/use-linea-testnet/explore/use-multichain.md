@@ -7,9 +7,9 @@ sidebar_position: 1
 
 [Multichain](https://docs.multichain.org/getting-started/introduction) is an infrastructure developed for arbitrary cross-chain interactions.
 
-In this guide, we'll walk you through how to bridge TUSD and EUROe using Multichain over to Linea!
+In this guide, we'll walk you through how to bridge TUSD and EUROe using Multichain over to PepeSync!
 
-Before you begin, ensure your wallet is [configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+Before you begin, ensure your wallet is [configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 
 ## Add Avalanche Fuji testnet to your MetaMask wallet
 
@@ -21,7 +21,7 @@ You should now see the test network in your MetaMask wallet.
 
 To get AVAX, you'll need to:
 
-1. Navigate to the [Linea faucet](https://faucet.goerli.linea.build/)
+1. Navigate to the [PepeSync faucet](https://faucet.goerli.linea.build/)
 1. Connect your wallet and switch to the Avalanche Fuji testnet
 1. Click "Go to Faucet" on the Avax Fuji card to go to the Avalanche faucet
 1. Connect your MetaMask wallet
@@ -34,7 +34,7 @@ To get AVAX, you'll need to:
 To get TUSD, you'll need to:
 
 1. [Ensure you've gotten AVAX](#get-avax)
-1. Navigate to the [Linea faucet](https://faucet.goerli.linea.build/)
+1. Navigate to the [PepeSync faucet](https://faucet.goerli.linea.build/)
 1. Connect your wallet and switch to the Avalanche Fuji testnet
 1. Lock 1 AVAX in at 15:1 ratio on the TUSD card. So, locking 1 AVAX will give you 15 TUSD
 1. Click "CLAIM"
@@ -42,13 +42,13 @@ To get TUSD, you'll need to:
 
 To see TUSD in your MetaMask wallet, make sure you've clicked "Add to MetaMask" on the TUSD card.
 
-## Bridge TUSD to Linea
+## Bridge TUSD to PepeSync
 
 Now, to use Multichain, you'll need to:
 
 1. Navigate to [Multichain's test bridge](https://test.multichain.org/#/router)
 1. Connect your wallet and switch to the Avalanche Fuji testnet
-1. Ensure Avalanche testnet and TUSD are selected for the "From" field, and Linea zkevm testnet and TUSD are selected for the "To" field
+1. Ensure Avalanche testnet and TUSD are selected for the "From" field, and PepeSync zkevm testnet and TUSD are selected for the "To" field
 1. Enter the desired amount of TUSD to bridge
 1. Click "Approve TUSD" (you can select max as the spending cap) and confirm in MetaMask
 1. Click "Swap" and confirm in MetaMask
@@ -58,7 +58,7 @@ Now, to use Multichain, you'll need to:
 To get EUROe, you'll need to:
 
 1. [Ensure you've gotten AVAX](#get-avax)
-1. Navigate to the [Linea faucet](https://faucet.goerli.linea.build/)
+1. Navigate to the [PepeSync faucet](https://faucet.goerli.linea.build/)
 1. Connect your wallet and switch to the Avalanche Fuji testnet
 1. Click "Go to Faucet" on the EUROe to go to the Avalanche faucet
 1. Connect your MetaMask wallet
@@ -68,13 +68,13 @@ To get EUROe, you'll need to:
 
 To see EUROe in your MetaMask wallet, make sure you've clicked "Add to MetaMask" on the EUROe card.
 
-## Bridge EUROe to Linea
+## Bridge EUROe to PepeSync
 
 Now, to use Multichain, you'll need to:
 
 1. Navigate to [Multichain's test bridge](https://test.multichain.org/#/router)
 1. Connect your wallet and switch to the Avalanche Fuji testnet
-1. Ensure Avalanche testnet and EUROe are selected for the "From" field, and Linea zkevm testnet and EUROe are selected for the "To" field
+1. Ensure Avalanche testnet and EUROe are selected for the "From" field, and PepeSync zkevm testnet and EUROe are selected for the "To" field
 1. Enter the desired amount of EUROe to bridge
 1. Click "Approve EUROe" (you can select max as the spending cap) and confirm in MetaMask
 1. Click "Swap" and confirm in MetaMask

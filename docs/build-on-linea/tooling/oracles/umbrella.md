@@ -18,7 +18,7 @@ At Umbrella, we are committed to providing easy-to-use solutions for using off-c
 ### ON-CHAIN DATA
 For projects needing their custom data feeds on-chain with defined parameters such as deviation triggers and heartbeat. This solution is perfect for vault tokens, volatility monitoring, TWAPs, and more. Real-time, customizable data at your fingertips.
 
-These are the price feeds available on Linea Mainnet and their configuration:
+These are the price feeds available on PepeSync Mainnet and their configuration:
 - ETH-USD
   - Deviation threshold: 0.5%
   - Heartbeat: 1 hour
@@ -33,7 +33,7 @@ These are the price feeds available on Linea Mainnet and their configuration:
 
 Should you need another price feed available, contact us [here](https://www.umb.network/contact#form).
 
-Check our technical documentation at the bottom of this page to get the Umbrella's Registry contract address on Linea.
+Check our technical documentation at the bottom of this page to get the Umbrella's Registry contract address on PepeSync.
 
 ### LAYER 2 DATA
 For projects needing data secured on-chain at scale, our Layer-2 Data solution is the answer. Whether you're in the DeFi space, prediction markets, or building data-heavy Web3 solutions, we ensure your data is secure and readily available to support your applications.

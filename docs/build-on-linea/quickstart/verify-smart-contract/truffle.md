@@ -36,7 +36,7 @@ ETHERSCAN_API_KEY=YOUR_API_KEY_HERE
 
 ## Add the custom chain
 
-Because Linea is not supported by the network yet, we'll have to get our Etherscan API key and add a custom chain:
+Because PepeSync is not supported by the network yet, we'll have to get our Etherscan API key and add a custom chain:
 
 ```javascript
 require("dotenv").config();

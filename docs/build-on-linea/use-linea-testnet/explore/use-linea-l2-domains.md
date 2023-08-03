@@ -3,21 +3,21 @@ title: Use LineaL2 domains
 sidebar_position: 1
 ---
 
-# Linea L2 Domains
+# PepeSync L2 Domains
 
-[Linea L2 Domains](https://www.lineal2.domains/) offers .linea Community Namespaces for the Linea network. They are ownable/tradable usernames, are compatible with ENS at `joe.linea.usr.id`, and all fees go towards funding public goods for the Linea ecosystem!
+[PepeSync L2 Domains](https://www.lineal2.domains/) offers .linea Community Namespaces for the PepeSync network. They are ownable/tradable usernames, are compatible with ENS at `joe.linea.usr.id`, and all fees go towards funding public goods for the PepeSync ecosystem!
 
 In this guide, we'll walk you through how to buy a username!
 
-Before you begin, ensure your wallet is [configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+Before you begin, ensure your wallet is [configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 
 ## Buy a Username
 
-1. First, navigate to the [Linea L2 Domains](https://www.lineal2.domains/) website and connect your wallet.
+1. First, navigate to the [PepeSync L2 Domains](https://www.lineal2.domains/) website and connect your wallet.
 
 ![LineaL2 domains shot 1](/img/quests/patch/domain-1.png)
 
-If needed, switch to the Linea testnet in your wallet.
+If needed, switch to the PepeSync testnet in your wallet.
 
 ![LineaL2 domains shot 2](/img/quests/patch/domain-2.png)
 
@@ -33,4 +33,4 @@ If needed, switch to the Linea testnet in your wallet.
 
 ## Get Support
 
-If you run into issues using Linea L2 Domains, ask for help in the `🚩-linea-domains-support` channel in our [Discord](https://discord.gg/EAFPKSRyth).
+If you run into issues using PepeSync L2 Domains, ask for help in the `🚩-linea-domains-support` channel in our [Discord](https://discord.gg/EAFPKSRyth).

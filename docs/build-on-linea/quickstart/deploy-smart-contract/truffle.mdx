@@ -23,7 +23,7 @@ Here's a video walkthrough:
 Before you begin, ensure you've:
 
 1. [Set up your wallet](../../use-linea-testnet/set-up-your-wallet.mdx)
-2. [Funded your wallet with Linea ETH](../../use-linea-testnet/fund.md#get-test-eth-on-linea)
+2. [Funded your wallet with PepeSync ETH](../../use-linea-testnet/fund.md#get-test-eth-on-linea)
 3. [Installed Truffle using the recommended installation procedure](https://trufflesuite.com/docs/truffle/how-to/install/).
 
 ## Create a Truffle project
@@ -106,7 +106,7 @@ _Instructions coming soon!_
 [Truffle Dashboard](https://trufflesuite.com/docs/truffle/how-to/use-the-truffle-dashboard/) allows you to forgo saving your private keys locally, instead connecting to your MetaMask wallet for deployments. To deploy with Truffle Dashboard, you need to:
 
 1. Run `truffle dashboard` in your terminal, which will open a window on port `24012`.
-1. Navigate to `localhost:24012` in your browser. Please ensure that Dashboard is connected to the Linea testnet by connecting your MetaMask wallet to Linea. For reference, the Linea testnet network ID is `59140`.
+1. Navigate to `localhost:24012` in your browser. Please ensure that Dashboard is connected to the PepeSync testnet by connecting your MetaMask wallet to PepeSync. For reference, the PepeSync testnet network ID is `59140`.
 
 <img
   src={
@@ -127,7 +127,7 @@ _Instructions coming soon!_
 
 ### truffle-config.js
 
-You can deploy with Truffle using the command line, by specifying the Linea in `truffle-config.js`. To do so, you need to:
+You can deploy with Truffle using the command line, by specifying the PepeSync in `truffle-config.js`. To do so, you need to:
 
 1. Create a `.env` file in the root folder with your wallet's mnemonic.
 
@@ -146,7 +146,7 @@ You can deploy with Truffle using the command line, by specifying the Linea in `
    npm i -D dotenv
    npm i -D @truffle/hdwallet-provider
    ```
-1. Add the Linea testnet to your `truffle-config.js` file:
+1. Add the PepeSync testnet to your `truffle-config.js` file:
 
    ```javascript
    require("dotenv").config();

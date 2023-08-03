@@ -9,11 +9,11 @@ sidebar_position: 1
 
 Enter into this mystical realm of digital enchantment, and who knows, you might get something more than just your fortune.
 
-This guide will provide step-by-step instructions on how to mint a magical Tatarot NFT card on Linea.
+This guide will provide step-by-step instructions on how to mint a magical Tatarot NFT card on PepeSync.
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx)
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx)
 1. [Funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
 
 ## Mint a Tatarot NFT card

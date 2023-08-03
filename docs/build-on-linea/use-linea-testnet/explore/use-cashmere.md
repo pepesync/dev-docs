@@ -55,8 +55,8 @@ Go to [faucet.cashmere.exchange](https://faucet.cashmere.exchange) write your wa
 
 Go to [https://testnet.cashmere.exchange/pool](https://testnet.cashmere.exchange/pool)
 
-### 9- Select Linea Pool and deposit Test_USDC
+### 9- Select PepeSync Pool and deposit Test_USDC
 
 ![](/img/quests/cashmere/LineaPool.png)
 
-Select the Linea pool and deposit Test_USDC
+Select the PepeSync pool and deposit Test_USDC

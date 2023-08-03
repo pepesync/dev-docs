@@ -5,20 +5,20 @@ sidebar_position: 1
 
 # MES Protocol
 
-Linea DeFi Week Tutorial MES Protocol is a cross-rollup orderbook DEX, you can learn more about it [here](https://www.mesprotocol.com/). This guide would walk you through how to complete the tasks.
+PepeSync DeFi Week Tutorial MES Protocol is a cross-rollup orderbook DEX, you can learn more about it [here](https://www.mesprotocol.com/). This guide would walk you through how to complete the tasks.
 
 Before you begin, make sure your wallet is:
 
-- [configured to use Linea](/use-mainnet/set-up-your-wallet.mdx)
-- [funded with the Linea ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-linea).
+- [configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx)
+- [funded with the PepeSync ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-linea).
 
 ## Tasks
 
-1. Deposit any asset on Linea testnet
+1. Deposit any asset on PepeSync testnet
 2. Place and close an order at Spot Trading or MES Convert page
-3. Withdraw asset on Linea testnet
+3. Withdraw asset on PepeSync testnet
 
-## Switch to Linea Testnet
+## Switch to PepeSync Testnet
 
 1. Navigate to [MES Protocol app](https://app.mesprotocol.com/)
 2. Switch to Testnet
@@ -26,7 +26,7 @@ Before you begin, make sure your wallet is:
    ![mes1](/img/quests/mesprotocol/mes1.png)
 
 3. Connect wallet
-4. Select Linea Testnet and confirm to switch to Linea at your wallet
+4. Select PepeSync Testnet and confirm to switch to PepeSync at your wallet
 
    ![mes2](/img/quests/mesprotocol/mes2.png)
 
@@ -49,7 +49,7 @@ Before you begin, make sure your wallet is:
 
 2. Choose to trade in “Single Chain Mode” or “Cross-rollup Mode”, this is what differentiates MES from other DEXs.
 
-- In Single Chain Mode - your order placed is matched and settled with other orders on Linea (your currently connected chain) only.
+- In Single Chain Mode - your order placed is matched and settled with other orders on PepeSync (your currently connected chain) only.
 - In Cross-Rollup Mode, your order could match and settle with orders on any chains supported by MES. You enjoy deeper liquidity in this mode, but you may need to bridge the assets when you withdraw.
 
   ![mes5](/img/quests/mesprotocol/mes5.png)
@@ -65,7 +65,7 @@ Before you begin, make sure your wallet is:
    ![mes6](/img/quests/mesprotocol/mes6.png)
 
 2. Select order type - Market Order or Limit Order
-3. Select the source chain and token, and the destination chain and token (Linea would be the source and destination chains in this event)
+3. Select the source chain and token, and the destination chain and token (PepeSync would be the source and destination chains in this event)
 
    ![mes7](/img/quests/mesprotocol/mes7.jpeg)
 
@@ -73,11 +73,11 @@ Before you begin, make sure your wallet is:
 5. Click “Preview Conversion”
 6. The conversion rate is displayed, it is for reference only and the actual settlement rate is subject to the price movement. You can adjust the conversion rate here if you are placing a Limit Order. Click "Submit" if you confirm the details of your trade
 
-## Withdraw Linea Balance Only
+## Withdraw PepeSync Balance Only
 
 1. Same as deposit, navigate to the trading page and click on “Deposit/Withdraw Tokens”
 2. Click on the "Withdraw" button at the row of token you want to withdraw
-3. Choose a withdrawal mode - “Withdraw Linea Balance Only” allows you to withdraw assets on Linea only, or “Withdraw Cross-chain Balance” that aggregates your assets into Linea then and withdraw.
+3. Choose a withdrawal mode - “Withdraw PepeSync Balance Only” allows you to withdraw assets on PepeSync only, or “Withdraw Cross-chain Balance” that aggregates your assets into PepeSync then and withdraw.
 
    ![mes8](/img/quests/mesprotocol/mes8.png)
 
@@ -93,9 +93,9 @@ Before you begin, make sure your wallet is:
 
 ## Withdraw Cross-chain Balance
 
-1. Select Linea as the destination chain
+1. Select PepeSync as the destination chain
 
    ![mes11](/img/quests/mesprotocol/mes11.png)
 
-2. You are then navigated to “MES Convert” page to bridge your selected asset to Linea
-3. After you have aggregated your assets to Linea, you can follow Step 4 above to withdraw the assets under Single Chain Withdrawal Mode.
+2. You are then navigated to “MES Convert” page to bridge your selected asset to PepeSync
+3. After you have aggregated your assets to PepeSync, you can follow Step 4 above to withdraw the assets under Single Chain Withdrawal Mode.

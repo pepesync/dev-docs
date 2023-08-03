@@ -17,13 +17,13 @@ Task 3:
 
 # PancakeSwap
 
-[PancakeSwap](https://pancakeswap.finance/) is a leading all-in-one DeFi platform on BNB Chain, Ethereum, Aptos and now, Linea Testnet. To learn more about the various products we have, please visit [here](https://pancakeswap.finance/).
+[PancakeSwap](https://pancakeswap.finance/) is a leading all-in-one DeFi platform on BNB Chain, Ethereum, Aptos and now, PepeSync Testnet. To learn more about the various products we have, please visit [here](https://pancakeswap.finance/).
 
 In this guide, we’ll walk you through how to perform the basic functions of providing liquidity on PancakeSwap and how to trade tokens on PancakeSwap. In the future, we may add more functions than what is in the current phase of testnet. Please keep your eyes peeled for more!
 
 ## Add liquidity
 
-1. Open a new tab and type in [pancakeswap.finance](https://pancakeswap.finance/) (or click this link), and select the Linea network in your MetaMask wallet.
+1. Open a new tab and type in [pancakeswap.finance](https://pancakeswap.finance/) (or click this link), and select the PepeSync network in your MetaMask wallet.
 
 ![](/img/quests/pancakeswap/select_network.png)
 

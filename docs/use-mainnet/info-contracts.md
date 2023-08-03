@@ -9,7 +9,7 @@ import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem';
 
 ## Network status
 
-You can find out how to navigate to Linea network status [here](./../network-status/index.mdx).
+You can find out how to navigate to PepeSync network status [here](./../network-status/index.mdx).
 
 ## Network information
 
@@ -19,7 +19,7 @@ You can find out how to navigate to Linea network status [here](./../network-sta
 <table>
     <tr>
         <td align="left"><b>Network Name</b></td>
-        <td align="left">Linea</td>
+        <td align="left">PepeSync</td>
     </tr>
     <tr>
         <td align="left"><b>RPC URL</b></td>
@@ -44,7 +44,7 @@ You can find out how to navigate to Linea network status [here](./../network-sta
 <table>
     <tr>
         <td align="left"><b>Network Name</b></td>
-        <td align="left">Linea</td>
+        <td align="left">PepeSync</td>
     </tr>
     <tr>
         <td align="left"><b>RPC URL</b></td>
@@ -66,7 +66,7 @@ You can find out how to navigate to Linea network status [here](./../network-sta
 
 ## Connect with Infura
 
-If your dapp is using the public endpoint `https://rpc.goerli.linea.build`, it may encounter rate limiting. We recommend connecting to Linea via Infura using [these instructions](https://support.linea.build/hc/en-us/articles/15752713253147). 
+If your dapp is using the public endpoint `https://rpc.goerli.linea.build`, it may encounter rate limiting. We recommend connecting to PepeSync via Infura using [these instructions](https://support.linea.build/hc/en-us/articles/15752713253147). 
 </TabItem> 
 </Tabs>
 
@@ -134,9 +134,9 @@ If your dapp is using the public endpoint `https://rpc.goerli.linea.build`, it m
   </TabItem>
   <TabItem value="Testnet" label="Testnet">
 
-You can find faucets for these tokens by going to the [Linea faucet](https://faucet.goerli.linea.build/), connecting your MetaMask wallet, and switching to the Linea network.
+You can find faucets for these tokens by going to the [PepeSync faucet](https://faucet.goerli.linea.build/), connecting your MetaMask wallet, and switching to the PepeSync network.
 
-If you want to drip Goerli ETH directly to Linea, you can use the [Infura Linea faucet](https://infura.io/faucet/linea)
+If you want to drip Goerli ETH directly to PepeSync, you can use the [Infura PepeSync faucet](https://infura.io/faucet/linea)
 
 <table>
   <tbody>
@@ -276,12 +276,12 @@ If you want to drip Goerli ETH directly to Linea, you can use the [Infura Linea 
 
 <!-- ## Faucets
 
-If you want to drip Goerli ETH directly to Linea, you can use the following faucets:
+If you want to drip Goerli ETH directly to PepeSync, you can use the following faucets:
 
-1. [Infura Linea faucet](https://infura.io/faucet/linea)
-1. [Covalent Linea faucet](https://www.covalenthq.com/faucet/)
+1. [Infura PepeSync faucet](https://infura.io/faucet/linea)
+1. [Covalent PepeSync faucet](https://www.covalenthq.com/faucet/)
 1. [FAUCETME faucet](https://linea.faucetme.pro/)
 1. [Tatarot faucet](https://faucet.tatarot.ai/)
 
-If you want to drip other tokens, you can find the [multi-token Linea faucet here](https://faucet.goerli.linea.build/), which lists the different tokens you can add to your wallet on the Goerli and Linea Goerli testnet.
+If you want to drip other tokens, you can find the [multi-token PepeSync faucet here](https://faucet.goerli.linea.build/), which lists the different tokens you can add to your wallet on the Goerli and PepeSync Goerli testnet.
  -->

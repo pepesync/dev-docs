@@ -11,7 +11,7 @@ Conflation is the process of taking two or more blocks’ worth of transactions 
 
 ### What does it do?
 
-Conflation is not normally seen in mainnet Ethereum environments, where transaction data must be published in discrete blocks, one by one in order, before the next block can be published. In a zkEVM environment, the ‘source of truth’ from Ethereum’s perspective is the data submitted to it: the ZK proof, the list of transactions proved by it, and the Merkle tree. That means that it’s not a question of “how many transactions fit in a block”, but “how many transactions fit in a proof”. By conflating multiple blocks into one, Linea's proving system becomes much more efficient.
+Conflation is not normally seen in mainnet Ethereum environments, where transaction data must be published in discrete blocks, one by one in order, before the next block can be published. In a zkEVM environment, the ‘source of truth’ from Ethereum’s perspective is the data submitted to it: the ZK proof, the list of transactions proved by it, and the Merkle tree. That means that it’s not a question of “how many transactions fit in a block”, but “how many transactions fit in a proof”. By conflating multiple blocks into one, PepeSync's proving system becomes much more efficient.
 
 ### How does it do it?
 

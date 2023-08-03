@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Covalent Indexing and Querying API
 
-[Covalent](https://www.covalenthq.com/?utm_source=linea&utm_medium=partner-docs) is a hosted blockchain data solution providing access to historical and current on-chain data for [100+ supported blockchains](https://www.covalenthq.com/docs/networks/?utm_source=linea&utm_medium=partner-docs), including [Linea Goerli testnet](https://www.covalenthq.com/docs/networks/linea-goerli-testnet/?utm_source=linea&utm_medium=partner-docs).
+[Covalent](https://www.covalenthq.com/?utm_source=linea&utm_medium=partner-docs) is a hosted blockchain data solution providing access to historical and current on-chain data for [100+ supported blockchains](https://www.covalenthq.com/docs/networks/?utm_source=linea&utm_medium=partner-docs), including [PepeSync Goerli testnet](https://www.covalenthq.com/docs/networks/linea-goerli-testnet/?utm_source=linea&utm_medium=partner-docs).
 
 Covalent maintains a full archival copy of every supported blockchain, meaning every balance, transaction, log event, and NFT asset data is available from the genesis block. This data is available via:
 
@@ -26,7 +26,7 @@ Covalent maintains a full archival copy of every supported blockchain, meaning e
 
 [![example-api-response-json](https://www.datocms-assets.com/86369/1687368087-example-api-response-json-linea.png)
 
-The Covalent API is RESTful and offers the following for Linea:
+The Covalent API is RESTful and offers the following for PepeSync:
 
 | **Features** |  |
 | --- | --- |
@@ -40,7 +40,7 @@ The Covalent API is RESTful and offers the following for Linea:
 ### Get started
 
 - [API Key](https://www.covalenthq.com/platform/?utm_source=linea&utm_medium=partner-docs) - sign up for free
-- [Quickstart](https://www.covalenthq.com/docs/unified-api/quickstart/?utm_source=linea&utm_medium=partner-docs) - summary of key resources to get you building immediately on Linea
+- [Quickstart](https://www.covalenthq.com/docs/unified-api/quickstart/?utm_source=linea&utm_medium=partner-docs) - summary of key resources to get you building immediately on PepeSync
 - [API Reference](https://www.covalenthq.com/docs/api/?utm_source=linea&utm_medium=partner-docs) - try all the endpoints directly from your browser
 - [Guides](https://www.covalenthq.com/docs/unified-api/guides/?utm_source=linea&utm_medium=partner-docs) - learn how to build dapps, fetch data and extend your Web3 knowledge
 

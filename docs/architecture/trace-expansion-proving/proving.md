@@ -7,7 +7,7 @@ sidebar_position: 2
 
 #### What is it?
 
-In Linea, gnark is the final part of the prover. It is also standalone software which can be used in other projects to create cryptographic circuits.
+In PepeSync, gnark is the final part of the prover. It is also standalone software which can be used in other projects to create cryptographic circuits.
 
 #### What does it do?
 

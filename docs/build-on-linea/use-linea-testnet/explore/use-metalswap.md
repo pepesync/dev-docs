@@ -1,6 +1,6 @@
 ---
 title: Use MetalSwap
-description: Use Metalswap to Protect From Volatility - Linea Voyage Quest
+description: Use Metalswap to Protect From Volatility - PepeSync Voyage Quest
 sidebar_position: 1
 ---
 
@@ -10,7 +10,7 @@ sidebar_position: 1
 
 To begin your test run, visit the MetalSwap demo interface at [https://testnet-linea.metalswap.finance](https://testnet-linea.metalswap.finance).
 
-This demo operates on the Linea Testnet using two **custom fake tokens called: "WBTC" and "USDC"**. These demo tokens will allow you to simulate operations as if they were real, without the risk of losing actual funds.
+This demo operates on the PepeSync Testnet using two **custom fake tokens called: "WBTC" and "USDC"**. These demo tokens will allow you to simulate operations as if they were real, without the risk of losing actual funds.
 
 The following steps will guide you on how to operate the demo:
 
@@ -20,7 +20,7 @@ The following steps will guide you on how to operate the demo:
 
 ![test tokens faucet menu](/img/quests/metalswap/tokens-faucet.png)
 
-2. If your wallet is set up on a different chain, a message will appear prompting you to switch networks. Click on _"SWITCH NETWORK"_. This will open your wallet with the Linea network already selected. Confirm and proceed with the request for the test tokens.
+2. If your wallet is set up on a different chain, a message will appear prompting you to switch networks. Click on _"SWITCH NETWORK"_. This will open your wallet with the PepeSync network already selected. Confirm and proceed with the request for the test tokens.
 
 ![get test tokens from faucet](/img/quests/metalswap/get-test-tokens.png)
 
@@ -30,9 +30,9 @@ We will need at least 0.01 GoerliETH: to avoid the faucet drainage by spamming, 
 
 After obtaining Goerli ETH tokens, proceed by clicking on the following main boxes:
 
-- "Get Linea Test WBTC and USDC", note this operation can be performed once a day.
+- "Get PepeSync Test WBTC and USDC", note this operation can be performed once a day.
 
-- "Go To The Linea ETH Faucet" to obtain the ETH needed for transition payments.
+- "Go To The PepeSync ETH Faucet" to obtain the ETH needed for transition payments.
 
 Once you have obtained the test WBTC and USDC, we can move on _"Swap➝ Swap"_ section to use the Hedging Swap tool.
 
@@ -48,11 +48,11 @@ Now, **the Demo platform is ready to be used** exactly like the real one. To dee
 
 Remember, the demo platform has all the functionalities of the real one. For more information on its functions, refer to the corresponding sections of the DOCs.
 
-### MetalSwap Linea Testnet Dashboard
+### MetalSwap PepeSync Testnet Dashboard
 
-Welcome to the operating interface of MetalSwap on Linea Testnet where financial Hedging Swap Demo Orders can be performed on the Linea Goerli network.
+Welcome to the operating interface of MetalSwap on PepeSync Testnet where financial Hedging Swap Demo Orders can be performed on the PepeSync Goerli network.
 
-The process of connecting your wallet and setting up the Dapp remains the same as in the real version. Remember to select the Linea Testnet on Metamask before connecting your wallet.
+The process of connecting your wallet and setting up the Dapp remains the same as in the real version. Remember to select the PepeSync Testnet on Metamask before connecting your wallet.
 
 ![swaps dashboard allowance](/img/quests/metalswap/swaps-allowance-dashboard.png)
 

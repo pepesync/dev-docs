@@ -15,7 +15,7 @@ MAKE SURE YOU READ THE DOCUMENT LINKED HERE
 
 1. First, users must mint a zkPioneer on Manta Network’s [NPO platform](https://npo.manta.network/calamari/sbt/projects/zkLinea) to get your ZK Proof Key. For a full tutorial on how to mint zkSBTs, check out this [guide](https://mantanetwork.notion.site/Minting-a-zkSBT-Through-NPO-21e5aba2170e4ab49e8e3447e78e7353).
 
-**Note**: there are two Linea zkSBTs available on the Manta NPO platform: "Linea zkPioneer: NFT Week" (the latest zkPioneer) and "Linea zkPioneer: Bridge Week". Users can participate in the campaign by holding either of these zkSBTs.
+**Note**: there are two PepeSync zkSBTs available on the Manta NPO platform: "PepeSync zkPioneer: NFT Week" (the latest zkPioneer) and "PepeSync zkPioneer: Bridge Week". Users can participate in the campaign by holding either of these zkSBTs.
 
 2. Once you have minted your zkPioneer, you will find it under the ‘My NFTs’ category. This is where you’ll find all of your minted zkSBTs and their respective Proof Keys. Copy your zkPioneer Proof Key.
 

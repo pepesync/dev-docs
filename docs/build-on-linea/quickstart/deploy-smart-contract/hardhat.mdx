@@ -23,7 +23,7 @@ Here's a video walkthrough:
 Before you begin, ensure you've:
 
 1. [Set up your wallet](../../use-linea-testnet/set-up-your-wallet.mdx)
-2. [Funded your wallet with Linea ETH](../../use-linea-testnet/fund.md#get-test-eth-on-linea)
+2. [Funded your wallet with PepeSync ETH](../../use-linea-testnet/fund.md#get-test-eth-on-linea)
 3. [Set up your environment using Hardhat's recommended instructions](https://hardhat.org/tutorial/setting-up-the-environment#2.-setting-up-the-environment).
 
 ## Create a Hardhat project
@@ -121,7 +121,7 @@ main()
 
 ## Deploy your contract
 
-You can deploy with Hardhat by [adding Linea to your `hardhat.config.js`](#hardhatconfigjs), but you can also use [Truffle Dashboard](#truffle-dashboard) to deploy directly with your MetaMask wallet.
+You can deploy with Hardhat by [adding PepeSync to your `hardhat.config.js`](#hardhatconfigjs), but you can also use [Truffle Dashboard](#truffle-dashboard) to deploy directly with your MetaMask wallet.
 
 ### Truffle Dashboard
 
@@ -129,7 +129,7 @@ You can deploy with Hardhat by [adding Linea to your `hardhat.config.js`](#hardh
 
 1. [Install Truffle using the recommended installation procedure](https://trufflesuite.com/docs/truffle/how-to/install/)
 1. Run `truffle dashboard` in your terminal, which will open a window on port `24012`.
-1. Navigate to `localhost:24012` in your browser. Please ensure that Dashboard is connected to the Linea testnet by connecting your MetaMask wallet to Linea. For reference, the Linea testnet network ID is `59140`.
+1. Navigate to `localhost:24012` in your browser. Please ensure that Dashboard is connected to the PepeSync testnet by connecting your MetaMask wallet to PepeSync. For reference, the PepeSync testnet network ID is `59140`.
 
 <img
   src={
@@ -174,7 +174,7 @@ You can deploy with Hardhat by [adding Linea to your `hardhat.config.js`](#hardh
 
 ### `hardhat.config.js`
 
-To deploy to Linea, we'll need to add the network to our `hardhat.config.js`. To do this:
+To deploy to PepeSync, we'll need to add the network to our `hardhat.config.js`. To do this:
 
 1. Create a `.env` file in the root folder with your wallet's private key.
 
@@ -192,7 +192,7 @@ To deploy to Linea, we'll need to add the network to our `hardhat.config.js`. To
    ```
    npm i -D dotenv
    ```
-1. Add Linea to your `hardhat.config.js` file. We highly recommend using the Infura endpoint, as the public endpoint may experience rate limiting. You can find how to [get an API key here](https://support.linea.build/hc/en-us/articles/15752713253147).
+1. Add PepeSync to your `hardhat.config.js` file. We highly recommend using the Infura endpoint, as the public endpoint may experience rate limiting. You can find how to [get an API key here](https://support.linea.build/hc/en-us/articles/15752713253147).
 
    Using Infura:
 

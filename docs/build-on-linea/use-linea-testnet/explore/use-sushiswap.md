@@ -1,24 +1,24 @@
 ---
 title: Use Sushiswap
-description: Perform swaps on Linea
+description: Perform swaps on PepeSync
 sidebar_position: 1
 ---
 
-Sushiswap has deployed its contracts to showcase how Linea can be used to swap tokens on L2, where users can benefit from cheaper gas fees.
+Sushiswap has deployed its contracts to showcase how PepeSync can be used to swap tokens on L2, where users can benefit from cheaper gas fees.
 
 Consensys deployed a version of the Sushiswap website to let the user interact with the swap feature.
 
-## How to make a swap on Linea Sushiswap
+## How to make a swap on PepeSync Sushiswap
 
-1. First you need tokens to make a swap on Sushiswap, navigate to the [Linea Faucet](https://faucet.goerli.linea.build/)
+1. First you need tokens to make a swap on Sushiswap, navigate to the [PepeSync Faucet](https://faucet.goerli.linea.build/)
 2. Then get some “UNI” tokens from the list of tokens available
-3. Once the tokens received in your wallet navigate to [Linea Sushiswap](https://sushiswap.goerli.linea.build)
+3. Once the tokens received in your wallet navigate to [PepeSync Sushiswap](https://sushiswap.goerli.linea.build)
 4. Connect your MetaMask wallet.
 
 ![Make](/img/quests/sushiswap/sushiswap-1.png)
 
-5. Make sure your wallet is connected to Linea Goerli and funded with LineaETH to pay for gas fees
-6. Make sure that “Linea Testnet” is selected in the networks list on the top right
+5. Make sure your wallet is connected to PepeSync Goerli and funded with LineaETH to pay for gas fees
+6. Make sure that “PepeSync Testnet” is selected in the networks list on the top right
 
 ![Make](/img/quests/sushiswap/sushiswap-2.png)
 

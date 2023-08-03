@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Cataclysm: Zero Mission
 
-To complete the tasks of the game "Cataclysm: Zero Mission" for the Linea Voyage Quest, users will need to access the game page through the [provided link](https://cataclysm-game.com/zero-mission), available on the Linea’s space on Galxe, in the Cataclysm tasks.
+To complete the tasks of the game "Cataclysm: Zero Mission" for the PepeSync Voyage Quest, users will need to access the game page through the [provided link](https://cataclysm-game.com/zero-mission), available on the PepeSync’s space on Galxe, in the Cataclysm tasks.
 
 ![img1](/img/quests/cataclysm/connect-wallet.png)
 
@@ -13,7 +13,7 @@ Once on the game page, users will see two options: "Connect Metamask" and "Walle
 
 ![img2](/img/quests/cataclysm/start-game.png)
 
-After connecting their wallet, users will be ready to start playing. There are two available tasks for the Linea Voyage Quest: the first one is in the **_endless run_** mode, and the second one is in the **_arcade_** mode.
+After connecting their wallet, users will be ready to start playing. There are two available tasks for the PepeSync Voyage Quest: the first one is in the **_endless run_** mode, and the second one is in the **_arcade_** mode.
 
 In the endless run mode, waves of robots relentlessly swarm the game, testing the player's endurance and reflexes. Each wave becomes increasingly challenging, requiring quick thinking and precise movements to survive.
 

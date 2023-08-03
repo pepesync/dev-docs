@@ -14,17 +14,17 @@ In this guide, we'll walk you through how to Create Market, Swap & Fill Markets 
 
 Before you start, make sure your wallet is configured as follows:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 2. [Funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
-3. [Funded with Linea Faucet ERC20 Tokens](https://faucet.goerli.linea.build/)
+3. [Funded with PepeSync Faucet ERC20 Tokens](https://faucet.goerli.linea.build/)
 
 FWDX currently provides support for the following test networks:
 
 - Goerli Testnet
-- Linea Testnet
+- PepeSync Testnet
 - Polygon zkEVM Testnet
 
-To access the dApp, users can connect their wallets through Metamask or WalletConnect. Note that connecting to the Linea Goerli Test Network is required for the specific tasks in this guide.
+To access the dApp, users can connect their wallets through Metamask or WalletConnect. Note that connecting to the PepeSync Goerli Test Network is required for the specific tasks in this guide.
 
 ## Create Market
 

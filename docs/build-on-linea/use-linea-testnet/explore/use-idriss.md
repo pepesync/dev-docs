@@ -7,9 +7,9 @@ sidebar_position: 1
 
 [IDriss](https://www.idriss.xyz/) is a community-owned and operated suite of tools making web3 more usable for everyone.
 
-In this guide, we'll walk you through how to send crypto directly on Twitter with the IDriss browser extension using Linea!
+In this guide, we'll walk you through how to send crypto directly on Twitter with the IDriss browser extension using PepeSync!
 
-Before you begin, ensure your wallet is [configured to use Linea](/use-mainnet/set-up-your-wallet.mdx) and [funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli).
+Before you begin, ensure your wallet is [configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx) and [funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli).
 
 ## Send crypto directly on Twitter
 
@@ -21,9 +21,9 @@ Step 2: Open Twitter on your desktop and look for friends with a green ID badge.
 
 ![IDriss browser extension displaying a green ID badge on Twitter](/img/quests/idriss/idriss_browser_extension_twitter_badge.png)
 
-Step 3: Hover over the badge, specify the transaction amount, select the Linea Testnet network, and click the 'Send' button.
+Step 3: Hover over the badge, specify the transaction amount, select the PepeSync Testnet network, and click the 'Send' button.
 
-![Linea network in the IDriss browser extension](/img/quests/idriss/idriss_browser_extension_twitter_linea.png)
+![PepeSync network in the IDriss browser extension](/img/quests/idriss/idriss_browser_extension_twitter_linea.png)
 
 Step 4: Connect your wallet and confirm the transaction. You may have to wait a few seconds before the transaction is finalized.
 

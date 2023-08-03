@@ -3,7 +3,7 @@ title: Use Ultiverse
 sidebar_position: 1
 ---
 
-# Ultiverse Moonlight Linea Game Tutorial
+# Ultiverse Moonlight PepeSync Game Tutorial
 
 ## What is Moonlight
 
@@ -13,19 +13,19 @@ Ultiverse Moonlight is a collection of AI-powered 3D avatar NFTs that possess di
 
 ### Before you begin, ensure your wallet is:
 
-[Configured to use Linea](https://docs.linea.build/use-linea-testnet/set-up-your-wallet/)
+[Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet/)
 
 [Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli/)
 
 ### Step 1 - Wallet Login
 
-Visit the official website of [Moonlight Linea](https://moonlight-linea-show.ultiverse.io/)
+Visit the official website of [Moonlight PepeSync](https://moonlight-linea-show.ultiverse.io/)
 
 Click on "SIGN IN" to connect your wallet:
 
 ![](/img/quests/moonlight/moonlight-login.png)
 
-Choose the method to connect your wallet and proceed with wallet signature login (some wallets may require manually switching to the Linea chain):
+Choose the method to connect your wallet and proceed with wallet signature login (some wallets may require manually switching to the PepeSync chain):
 
 ![](/img/quests/moonlight/moonlight-login-wallet.png)
 
@@ -69,7 +69,7 @@ Customize your Moonlight by selecting your preferred outfits in the customizatio
 
 Click "Save" or "Reset":
 
-- Save: Generate a record of your custom data and store it on the Linea chain.
+- Save: Generate a record of your custom data and store it on the PepeSync chain.
 
 - Reset: Revert your unsaved modifications to the previous saved state.
 
@@ -79,7 +79,7 @@ Stay tuned for the official release of the "Customize Moonlight" full version fo
 
 ### Step 4 - Mint Your Moonlight NFT
 
-Click the "Mint" button in the top right corner, and mint your Moonlight NFT on the Linea chain. Friendly reminder: each wallet address can only mint one Moonlight NFT.
+Click the "Mint" button in the top right corner, and mint your Moonlight NFT on the PepeSync chain. Friendly reminder: each wallet address can only mint one Moonlight NFT.
 
 ![](/img/quests/moonlight/moonlight-mint.png)
 

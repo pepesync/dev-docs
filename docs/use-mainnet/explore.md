@@ -2,10 +2,10 @@
 title: Explore
 sidebar_position: 5
 ---
-# Explore the blockspace of Linea
+# Explore the blockspace of PepeSync
 
 >
->### Looking for a block explorer for Linea? Try these:
+>### Looking for a block explorer for PepeSync? Try these:
 | Explorer name     | URL |
 | ----------- | ----------- |
 | Lineascan      | [https://lineascan.build](https://lineascan.build)      |
@@ -21,9 +21,9 @@ So as users take actions on the network, there are changes to those accounts and
 > If you want to learn more about explorers and how to use them, check out MetaMask's article on the topic: [How to check my wallet activity on the blockchain explorer](https://support.metamask.io/hc/en-us/articles/360057536611-How-to-check-my-wallet-activity-on-the-blockchain-explorer)
 > 
 
-### Looking to verify a smart contract on Linea?
+### Looking to verify a smart contract on PepeSync?
 
-If you've deployed a smart contract to Linea, you may wish to have it verified by one of the block explorers on the network. Once it's deployed, what's visible by default by an explorer is the compiled bytecode, which is not human-readable. 
+If you've deployed a smart contract to PepeSync, you may wish to have it verified by one of the block explorers on the network. Once it's deployed, what's visible by default by an explorer is the compiled bytecode, which is not human-readable. 
 
 **By submitting your contract's high-level code** (Solidity, for example), you allow for users, and the ecosystem as a whole, to **audit your code and make sure that it's doing what they expect it to do**. This makes your users safer, and the ecosystem safer as a whole.
 

@@ -1,6 +1,6 @@
 ---
 title: Use DegenReborn
-description: Linea Walk thru
+description: PepeSync Walk thru
 sidebar_position: 1
 ---
 
@@ -71,9 +71,9 @@ _In this guide, we'll walk you through the steps to experience DegenReborn and a
 
 **Before you begin, ensure your wallet is:**
 
-1. [Configured to use Linea](https://docs.linea.build/use-linea-testnet/set-up-your-wallet)
+1. [Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet)
 2. [Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli)
-3. [Swap Linea $DEGEN on Uniswap](https://swap.goerli.linea.build/#/swap)
+3. [Swap PepeSync $DEGEN on Uniswap](https://swap.goerli.linea.build/#/swap)
 
 $DEGEN Contract: 0xBc29956d8f9903e905b22af7bcB80Bcc78e4359a
 
@@ -296,7 +296,7 @@ Check out Leaderboard, Click Exhume to buy other player's tombstone. You will be
 
 <br/>
 
-_**The following quests are optional, but completing them will earn you mainnet $DEGEN token and more rewards for the future Linea mainnet launch!**_
+_**The following quests are optional, but completing them will earn you mainnet $DEGEN token and more rewards for the future PepeSync mainnet launch!**_
 
 ## **Quest 5. Play Game on Mainnet to Receive 2,100,000 $DEGEN**
 

@@ -16,22 +16,22 @@ Developers can find clonable [templates](https://portal.thirdweb.com/templates) 
 
 ## thirdweb Dashboard Tutorial
 
-This tutorial will walk developers through deploying and configuring a new ERC-20 token contract to Linea Testnet using the thirdweb [Dashboard](https://thirdweb.com/dashboard). You will learn how to:
+This tutorial will walk developers through deploying and configuring a new ERC-20 token contract to PepeSync Testnet using the thirdweb [Dashboard](https://thirdweb.com/dashboard). You will learn how to:
 
 - Deploy a pre-built ERC-20 smart contract template
 - Configure your token smart contract
 - Set up claim conditions, to allow others to claim your token
 - Transfer or airdrop tokens
 
-Before you begin, ensure that you have a wallet that is [configured to use Linea](https://docs.linea.build/use-linea-testnet/set-up-your-wallet) and that has been [funded with Linea Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli).
+Before you begin, ensure that you have a wallet that is [configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet) and that has been [funded with PepeSync Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli).
 
 ### Deploy a TokenDrop (ERC-20) Contract
 
-1. [Visit](https://thirdweb.com/linea-testnet) Linea Testnet chain page at thirdweb
+1. [Visit](https://thirdweb.com/linea-testnet) PepeSync Testnet chain page at thirdweb
 2. Deploy TokenDrop (ERC contract) using the thirdweb Dashboard
 
    1. Connect wallet to Dashboard
-   2. Change network on connect wallet to Linea Testnet
+   2. Change network on connect wallet to PepeSync Testnet
 
       ![connect-wallet.png](https://gateway.ipfscdn.io/ipfs/QmVGRGndHPYPMDwqY7ARDZbEEMuJVMoXYzSBoB2mhkddh9/connect-wallet.png)
 

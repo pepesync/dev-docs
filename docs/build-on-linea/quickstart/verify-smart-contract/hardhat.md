@@ -65,7 +65,7 @@ module.exports = {
 
 ## Add the custom chain
 
-Because Linea is not supported by the network yet, we'll have to add a custom chain like so:
+Because PepeSync is not supported by the network yet, we'll have to add a custom chain like so:
 
 ```javascript
 etherscan: {

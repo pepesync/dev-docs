@@ -1,6 +1,6 @@
 # PepeSync documentation
 
-[Linea](https://pepesync.xyz/) is a developer-ready Layer 2 network, scaling Ethereum by providing an Ethereum-equivalent
+[PepeSync](https://pepesync.xyz/) is a developer-ready Layer 2 network, scaling Ethereum by providing an Ethereum-equivalent
 environment in which to execute transactions, which are then submitted to Ethereum Mainnet through a
 zero-knowledge rollup.
 

@@ -17,7 +17,7 @@ First, you´ll need to access the [Gridex website](https://www.gdx.org/) where t
 
 ![image](https://github.com/navillanueva/doc.zk-evm/assets/42673884/ef6b7efd-906a-43e9-8107-e33332194c17)
 
-Now you will have to hit **connect wallet** and change the network to Linea Goerli Testnet :
+Now you will have to hit **connect wallet** and change the network to PepeSync Goerli Testnet :
 
 ![image](https://github.com/navillanueva/doc.zk-evm/assets/42673884/b7c5a8d6-5463-4bb4-906c-fdbaa3a0d354)
 

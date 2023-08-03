@@ -17,20 +17,20 @@ In this simple guide, we’ll gladly walk you through how to swap and add liquid
 
 ### Voyage Quest - "Swap and provide liquidity with any tokens"
 
-## Preparing your wallet for the Linea Testnet
+## Preparing your wallet for the PepeSync Testnet
 
 If you don't have any tokens in your wallet yet, you have two options:
 
 1.  Our partner Fluvi wallet offers [one-click Faucets and sponsored transactions](https://linea-quest.fluvi.io) to support your completion of Voyage quests. Simply connect your wallet and proceed with the tasks.
-2.  Or go to the [Linea Faucet Site](https://faucet.goerli.linea.build) and verify for testnet tokens
+2.  Or go to the [PepeSync Faucet Site](https://faucet.goerli.linea.build) and verify for testnet tokens
 
-Make sure to turn on “show/hide test network” option on Metamask and connect to the Linea Goerli Testnet
+Make sure to turn on “show/hide test network” option on Metamask and connect to the PepeSync Goerli Testnet
 
 ![](/img/quests/velocore/image8.png)
 
 ## Swap tokens
 
-1.  Fire up the [Velocore Linea testnet page here](https://linea.velocore.xyz/) and click “Connect Wallet” on the upper right corner.
+1.  Fire up the [Velocore PepeSync testnet page here](https://linea.velocore.xyz/) and click “Connect Wallet” on the upper right corner.
 
     For first time Fluvi Wallet or Wallet Connect Users:
 

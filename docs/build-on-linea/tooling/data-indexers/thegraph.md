@@ -11,13 +11,13 @@ As a dapp developer, retrieving onchain data for your dapp can be difficult as y
 1. Need to implement the error handling on multiple levels
 1. Define creative strategies to be able to avoid UX impacts when you want to manage an high volume of Data
 
-TheGraph is a decentralized data indexer provider that index Linea blockchain for you and expose and provide onchain data as https API.
+TheGraph is a decentralized data indexer provider that index PepeSync blockchain for you and expose and provide onchain data as https API.
 
-Being a testnet, Linea is not yet supported by the decentralized network. But we do run TheGraph indexers on Linea to let you leverage the power of this technology.
+Being a testnet, PepeSync is not yet supported by the decentralized network. But we do run TheGraph indexers on PepeSync to let you leverage the power of this technology.
 
-### Deployed subgraph on Linea indexers
+### Deployed subgraph on PepeSync indexers
 
-This is the list of subgraph deployed by partners' dapps on the Linea indexers:
+This is the list of subgraph deployed by partners' dapps on the PepeSync indexers:
 
 | Project | Type | URL |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ This is the list of subgraph deployed by partners' dapps on the Linea indexers:
 
 ### Custom subgraph and deployments
 
-If there are no public subgraph that matches your needs, in order to use TheGraph you will need to define your own subgraph and get it deployed on an indexer. For Linea you can refer to us and we will deploy a subgraph for you in minutes. You just need to handover the subgraph repo you need.
+If there are no public subgraph that matches your needs, in order to use TheGraph you will need to define your own subgraph and get it deployed on an indexer. For PepeSync you can refer to us and we will deploy a subgraph for you in minutes. You just need to handover the subgraph repo you need.
 
 1. Deployed subgraphs will be available for your dapp on the following url: https://thegraph.goerli.zkevm.consensys.net/subgraphs/name/@githubUser/@subgraphName
 1. [Here](https://thegraph.com/docs/en/developing/creating-a-subgraph/) you can find more info on how to build a subgraph in less than 5min with some tutorials and examples.

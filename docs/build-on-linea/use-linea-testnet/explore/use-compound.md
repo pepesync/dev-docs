@@ -4,22 +4,22 @@ description: Perform deposit collateral, borrow and supply USDC
 sidebar_position: 1
 ---
 
-Compound has been deployed to showcase how Linea can be used to supply collateral and borrow tokens on L2, where users can benefit from cheaper gas fees. Compound has integrated those contracts in its website to let the user interact with the dapp on Linea.
+Compound has been deployed to showcase how PepeSync can be used to supply collateral and borrow tokens on L2, where users can benefit from cheaper gas fees. Compound has integrated those contracts in its website to let the user interact with the dapp on PepeSync.
 
-This tutorial will can be done with either [Fluvi Wallet](https://chrome.google.com/webstore/detail/fluvi-wallet/mmmjbcfofconkannjonfmjjajpllddbg) or Metamask wallet to interact with Compound on Linea.
+This tutorial will can be done with either [Fluvi Wallet](https://chrome.google.com/webstore/detail/fluvi-wallet/mmmjbcfofconkannjonfmjjajpllddbg) or Metamask wallet to interact with Compound on PepeSync.
 
 If during this tutorial you encounter the transaction pending issue, please see : [Clear pending transactions](#clear-pending-transactions)
 
 ## How to borrow USDC on compound in one “Bulk transaction”
 
-1. First you need some ETH, navigate to the faucet to get some: [Linea Faucet](https://faucet.goerli.linea.build/)
+1. First you need some ETH, navigate to the faucet to get some: [PepeSync Faucet](https://faucet.goerli.linea.build/)
 2. Once you have some ETH, navigate to [Compound Finance](https://app.compound.finance/?market=usdc-lineagoerli&testnet=)
 3. Connect your wallet.
 
 ![Make](/img/quests/compound/compound-1.png)
 
-4. Make sure your wallet is connected to Linea Goerli and funded with ETH
-5. Make sure that “Linea Goerli” is selected in the networks list on the top right
+4. Make sure your wallet is connected to PepeSync Goerli and funded with ETH
+5. Make sure that “PepeSync Goerli” is selected in the networks list on the top right
 
 ![Make](/img/quests/compound/compound-2.png)
 
@@ -72,7 +72,7 @@ If during this tutorial you encounter the transaction pending issue, please see 
 6. Wait for the transaction to be completed then click on “Submit Transaction” again
 7. In the popup click on confirm
 8. Wait for the transaction to be completed
-9. You now need USDC to supply USDC, navigate to [Linea Faucet](https://faucet.goerli.linea.build/)
+9. You now need USDC to supply USDC, navigate to [PepeSync Faucet](https://faucet.goerli.linea.build/)
 10. Get some USDC from the faucet
 11. Come back to the compound website, you should see a USDC balance and a “Supply USDC” button
 

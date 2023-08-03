@@ -15,9 +15,9 @@ In this guide, we'll walk you through how to access your Patch wallet connected 
 
 ![Patch shot](/img/quests/patch/patch-twitter.png)
 
-## Start Linea Quest
+## Start PepeSync Quest
 
-1. First, Navigate to the [Linea Patch Wallet site](https://linea.patchwallet.com) where you'll find web wallets for all Twitter usernames, emails, and phone numbers.
+1. First, Navigate to the [PepeSync Patch Wallet site](https://linea.patchwallet.com) where you'll find web wallets for all Twitter usernames, emails, and phone numbers.
 
 ![Patch shot](/img/quests/patch/patch-1.png)
 
@@ -25,7 +25,7 @@ In this guide, we'll walk you through how to access your Patch wallet connected 
 
 ![Patch shot](/img/quests/patch/patch-2.png)
 
-3. Once on the wallet page for your Twitter account, click the 'Start' button to begin the Linea Quest. You're going to mint an NFT and send it to any Twitter user.
+3. Once on the wallet page for your Twitter account, click the 'Start' button to begin the PepeSync Quest. You're going to mint an NFT and send it to any Twitter user.
 
 ![Patch shot](/img/quests/patch/patch-3.png)
 
@@ -51,7 +51,7 @@ Make sure to enter the wallet from your Galxe profile! Otherwise, you might not 
 
 ![Patch shot](/img/quests/patch/patch-7.png)
 
-8. You're done! 🥂 Thanks for trying Patch Wallet on the Linea network! You can use Patch wallet on Polygon at [app.patchwallet.com](https://app.patchwallet.com)!
+8. You're done! 🥂 Thanks for trying Patch Wallet on the PepeSync network! You can use Patch wallet on Polygon at [app.patchwallet.com](https://app.patchwallet.com)!
 
 ## Get Support
 

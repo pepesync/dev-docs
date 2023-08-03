@@ -7,9 +7,9 @@ sidebar_position: 1
 
 [Celer cBridge](https://dev-cbridge-v2.netlify.app/97/59140/BNB) is a decentralized and non-custodial asset bridge, which you can read more about [here](https://celer.network/).
 
-In this guide, we'll walk you through how to bridge TBNB and tBUSD from Binance Smart Chain (BSC) over to Linea!
+In this guide, we'll walk you through how to bridge TBNB and tBUSD from Binance Smart Chain (BSC) over to PepeSync!
 
-Before you begin, ensure your wallet is [configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+Before you begin, ensure your wallet is [configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 
 ## Add BSC testnet to your MetaMask wallet
 
@@ -21,13 +21,13 @@ You should now see the test network in your MetaMask wallet.
 
 ## Get TBNB
 
-Now that the network is added, we can head over to the Linea faucet, to get BNB. To do so:
+Now that the network is added, we can head over to the PepeSync faucet, to get BNB. To do so:
 
-1. Navigate to the [Linea faucet](https://faucet.goerli.linea.build/)
-1. Connect your wallet and switch to the Linea Goerli test network
+1. Navigate to the [PepeSync faucet](https://faucet.goerli.linea.build/)
+1. Connect your wallet and switch to the PepeSync Goerli test network
 1. Go to the [BNB faucet](https://testnet.bnbchain.org/faucet-smart) linked through the BNB card
 
-   ![Linea BNB faucet](/img/quests/celer/bnb_linea_faucet.png)
+   ![PepeSync BNB faucet](/img/quests/celer/bnb_linea_faucet.png)
 
 1. Complete a captcha
 1. Input your wallet address and dispense 0.1 TBNB
@@ -44,7 +44,7 @@ To bridge over TBNB, you'll need to:
 
 1. Navigate to the [Celer bridge](https://dev-cbridge-v2.netlify.app/97/59140/BNB)
 1. Connect your wallet and change to the BSC test network
-1. Make sure the "From" chain is BSC testnet, the "To" chain is Linea, and the desired token is BNB
+1. Make sure the "From" chain is BSC testnet, the "To" chain is PepeSync, and the desired token is BNB
 
    ![celer bridge](/img/quests/celer/celer_bridge.png)
 
@@ -78,13 +78,13 @@ To see the BUSD in your MetaMask wallet on the BSC testnet, you'll need add the 
 1. Add `0xeb3eb991d39dac92616da64b7c6d5af5ccff1627` under "Token contract address"
 1. BUSD and 18 should automatically populate for the "Token symbol" and "Token decimal"
 
-## Bridge BUSD from BSC testnet to Linea
+## Bridge BUSD from BSC testnet to PepeSync
 
 Now, to bridge BUSD, you'll need to:
 
 1. Navigate to the [Celer bridge](https://dev-cbridge-v2.netlify.app/97/59140/BNB)
 1. Connect your wallet and change to the BSC test network
-1. Make sure the "From" chain is BSC testnet, the "To" chain is Linea, and the desired token is BUSD
+1. Make sure the "From" chain is BSC testnet, the "To" chain is PepeSync, and the desired token is BUSD
 
    ![celer busd bridge](/img/quests/celer/celer_busd_bridge.png)
 
@@ -94,10 +94,10 @@ Now, to bridge BUSD, you'll need to:
 1. Wait for the transaction to be confirmed
 1. Click on Transfer on the Celer bridge and confirm the transaction in MetaMask
 
-To see the BUSD in your MetaMask wallet on Linea, you'll need add the BUSD token to your MetaMask wallet. To easily do so, you can:
+To see the BUSD in your MetaMask wallet on PepeSync, you'll need add the BUSD token to your MetaMask wallet. To easily do so, you can:
 
-1. Navigate to the [Linea faucet](https://faucet.goerli.linea.build/)
-1. Connect your wallet to the Linea Goerli testnet
+1. Navigate to the [PepeSync faucet](https://faucet.goerli.linea.build/)
+1. Connect your wallet to the PepeSync Goerli testnet
 1. Find the BUSD card
 1. Click "Add to MetaMask"
 

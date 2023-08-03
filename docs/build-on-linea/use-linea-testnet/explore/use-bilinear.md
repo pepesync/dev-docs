@@ -18,7 +18,7 @@ Within the marketplace, a user will be able to perform the following actions:
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use Linea](/use-mainnet/set-up-your-wallet.mdx).
+1. [Configured to use PepeSync](/use-mainnet/set-up-your-wallet.mdx).
 1. [Funded with Goerli ETH](/build-on-linea/use-linea-testnet/fund.md#get-test-eth-on-goerli)
 
 ## Mint a collection
@@ -193,7 +193,7 @@ Once the NFT is delisted, the user sees the NFT detail page with the CTA “Sell
 
 ## Mint a NFT from NFT Factory collection
 
-The marketplace, available on the Linea testnet, will offer users an array of collections and NFTs that they can purchase the first time they land on the homepage.
+The marketplace, available on the PepeSync testnet, will offer users an array of collections and NFTs that they can purchase the first time they land on the homepage.
 
 ![below preview](/img/quests/bilinear/below_preview.png)
 

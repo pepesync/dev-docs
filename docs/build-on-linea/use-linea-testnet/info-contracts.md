@@ -7,14 +7,14 @@ sidebar_position: 3
 
 ## Network status
 
-You can find out how to navigate to Linea network status [here](../../network-status).
+You can find out how to navigate to PepeSync network status [here](../../network-status).
 
 ## Network information
 
 <table>
     <tr>
         <td align="left"><b>Network Name</b></td>
-        <td align="left">Linea</td>
+        <td align="left">PepeSync</td>
     </tr>
     <tr>
         <td align="left"><b>RPC URL</b></td>
@@ -36,20 +36,20 @@ You can find out how to navigate to Linea network status [here](../../network-st
 
 ## Connect with Infura
 
-If your dapp is using the public endpoint `https://rpc.goerli.linea.build`, it may encounter rate limiting. We recommend connecting to Linea via Infura using [these instructions](https://support.linea.build/hc/en-us/articles/15752713253147).
+If your dapp is using the public endpoint `https://rpc.goerli.linea.build`, it may encounter rate limiting. We recommend connecting to PepeSync via Infura using [these instructions](https://support.linea.build/hc/en-us/articles/15752713253147).
 
 ## Deployed contracts
 
 | Contract | Address |
 | --- | --- |
-| Linea rollup and L1 Bridge | [0xE87d317eB8dcc9afE24d9f63D6C760e52Bc18A40](https://goerli.etherscan.io/address/0xe87d317eb8dcc9afe24d9f63d6c760e52bc18a40) |
+| PepeSync rollup and L1 Bridge | [0xE87d317eB8dcc9afE24d9f63D6C760e52Bc18A40](https://goerli.etherscan.io/address/0xe87d317eb8dcc9afe24d9f63d6c760e52bc18a40) |
 | L2 Bridge | [0xA59477f7742Ba7d51bb1E487a8540aB339d6801d](https://goerli.lineascan.build/address/0xA59477f7742Ba7d51bb1E487a8540aB339d6801d) |
 
 ## Token contract addresses and bridges
 
-You can find faucets for these tokens by going to the [Linea faucet](https://faucet.goerli.linea.build/), connecting your MetaMask wallet, and switching to the Linea network.
+You can find faucets for these tokens by going to the [PepeSync faucet](https://faucet.goerli.linea.build/), connecting your MetaMask wallet, and switching to the PepeSync network.
 
-If you want to drip Goerli ETH directly to Linea, you can use the [Infura Linea faucet](https://infura.io/faucet/linea)
+If you want to drip Goerli ETH directly to PepeSync, you can use the [Infura PepeSync faucet](https://infura.io/faucet/linea)
 
 <table>
   <tbody>
@@ -156,16 +156,16 @@ If you want to drip Goerli ETH directly to Linea, you can use the [Infura Linea 
 
 <!-- ## Faucets
 
-If you want to drip Goerli ETH directly to Linea, you can use the following faucets:
+If you want to drip Goerli ETH directly to PepeSync, you can use the following faucets:
 
-1. [Infura Linea faucet](https://infura.io/faucet/linea)
-1. [Covalent Linea faucet](https://www.covalenthq.com/faucet/)
+1. [Infura PepeSync faucet](https://infura.io/faucet/linea)
+1. [Covalent PepeSync faucet](https://www.covalenthq.com/faucet/)
 1. [FAUCETME faucet](https://linea.faucetme.pro/)
 1. [Tatarot faucet](https://faucet.tatarot.ai/)
 
-If you want to drip other tokens, you can find the [multi-token Linea faucet here](https://faucet.goerli.linea.build/), which lists the different tokens you can add to your wallet on the Goerli and Linea Goerli testnet.
+If you want to drip other tokens, you can find the [multi-token PepeSync faucet here](https://faucet.goerli.linea.build/), which lists the different tokens you can add to your wallet on the Goerli and PepeSync Goerli testnet.
 
-You can find instructions on how to use the multi-token Linea faucet [here](../../use-mainnet/fund.md). -->
+You can find instructions on how to use the multi-token PepeSync faucet [here](../../use-mainnet/fund.md). -->
 
 ## Important Contracts
 
