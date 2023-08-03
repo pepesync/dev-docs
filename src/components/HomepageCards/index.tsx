@@ -25,7 +25,7 @@ const CardList: CardItem[] = [
     description: (
       <>
         Set up and fund your wallet to start bridging, swapping, and transacting
-        on Linea!
+        on PepeSync!
       </>
     ),
     buttonName: "Transact",
@@ -36,7 +36,7 @@ const CardList: CardItem[] = [
     link: "/build-on-linea/quickstart",
     description: (
       <>
-        Deploy and verify your first smart contract on Linea using your favorite
+        Deploy and verify your first smart contract on PepeSync using your favorite
         developer tools!
       </>
     ),
@@ -44,11 +44,11 @@ const CardList: CardItem[] = [
     buttonType: "success",
   },
   {
-    title: "Linea Block Explorer",
+    title: "PepeSync Block Explorer",
     link: "https://goerli.lineascan.build/",
     description: (
       <>
-        View Linea transactions and find deployed contracts and wallet addresses
+        View PepeSync transactions and find deployed contracts and wallet addresses
         on Etherscan!
       </>
     ),

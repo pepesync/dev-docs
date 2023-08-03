@@ -1,12 +1,12 @@
 ---
-title: Build a Tic Tac Toe game with Truffle and Unity on Linea
+title: Build a Tic Tac Toe game with Truffle and Unity on PepeSync
 description: Learn how to incorporate smart contracts into your Unity game using Truffle and the MetaMask Unity SDK
-slug: build-a-web3-game-on-linea
+slug: build-a-web3-game-on-PepeSync
 authors:
   - name: Emily Lin
     url: https://twitter.com/_emjlin
 hide_table_of_contents: false
-date: 2023-04-05
+date: 2023-08-01
 ---
 
 # Build a Web3 game

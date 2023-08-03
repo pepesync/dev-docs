@@ -1,17 +1,17 @@
 ---
-title: Learn with the Linea community
+title: Learn with the PepeSync community
 description: Welcome to the start of community sourced tutorials
-slug: learn-with-the-linea-community
+slug: learn-with-the-PepeSync-community
 authors:
-  - name: Emily Lin
+  - name: Emily Wilts
     url: https://twitter.com/_emjlin
 hide_table_of_contents: false
-date: 2023-04-03
+date: 2023-08-01
 ---
 
-# Learn with the Linea community
+# Learn with the PepeSync community
 
-We're excited to share the great educational content the Linea community has been putting out! So, we're dedicating a whole portion of our docs website to featuring community tutorials!
+We're excited to share the great educational content the PepeSync community has been putting out! So, we're dedicating a whole portion of our docs website to featuring community tutorials!
 
 <!--truncate-->
 

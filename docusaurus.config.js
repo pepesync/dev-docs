@@ -9,9 +9,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Linea",
+  title: "PepeSync",
   tagline:
-    "An EVM-equivalent network, scaling the Ethereum experience. Secured with a zero-knowledge rollup to Ethereum, built on quantum-resistant, lattice-based cryptography, powered by Consensys.",
+    "An EVM-equivalent network, Meme Chain scaling the Ethereum experience. Secured with a zero-knowledge rollup to Ethereum, built on quantum-resistant, lattice-based cryptography, powered by One Click RollUp.",
   url: "https://docs.linea.build",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -93,7 +93,7 @@ const config = {
       announcementBar: {
         id: "announcement_bar",
         content:
-          '📣Linea Mainnet Alpha is here! 🚀 Follow our User Guides <a href="https://docs.linea.build/use-mainnet">here</a> to get started 😎',
+          '📣PepeSync TestNet Alpha is here! 🚀 Follow our User Guides <a href="https://docs.linea.build/use-mainnet">here</a> to get started 😎',
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: false,
@@ -115,9 +115,9 @@ const config = {
       },
       navbar: {
         logo: {
-          alt: "Linea",
-          src: "img/logo.svg",
-          srcDark: "img/logo_dark.svg",
+          alt: "PepeSync",
+          src: "img/logo.jpg",
+          srcDark: "img/logo.jpg",
           width: 55,
           height: 55,
         },
@@ -152,7 +152,7 @@ const config = {
           {
             to: "https://linea.build/",
             position: "left",
-            label: "Linea home",
+            label: "PepeSync home",
           },
           {
             href: "https://discord.com/invite/consensys",
@@ -173,11 +173,11 @@ const config = {
             title: "Learn",
             items: [
               {
-                label: "Use Linea",
+                label: "Use PepeSync",
                 to: "/use-mainnet",
               },
               {
-                label: "Build on Linea",
+                label: "Build on PepeSync",
                 to: "/build-on-linea",
               },
             ],
@@ -217,7 +217,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Consensys, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OneClick RollUp, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
