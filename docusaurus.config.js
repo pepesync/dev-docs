@@ -150,9 +150,14 @@ const config = {
             label: "Support",
           },
           {
-            to: "https://linea.build/",
+            to: "https://pepesync.xyz/",
             position: "left",
             label: "PepeSync home",
+          },
+          {
+            href: "https://t.me/pepesynceco",
+            className: "header-telegram-link",
+            position: "right",
           },
           {
             href: "https://discord.com/invite/consensys",
@@ -160,7 +165,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://twitter.com/consensys",
+            href: "https://twitter.com/Pepe_Sync",
             className: "header-twitter-link",
             position: "right",
           },
