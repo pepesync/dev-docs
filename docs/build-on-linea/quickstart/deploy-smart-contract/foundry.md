@@ -55,7 +55,7 @@ forge create --rpc-url https://linea-goerli.infura.io/v3/YOUR-INFURA-API-KEY src
 Using the public endpoint:
 
 ```bash
-forge create --rpc-url https://rpc.goerli.linea.build/ src/Counter.sol:Counter --private-key YOUR_PRIVATE_KEY
+forge create --rpc-url https://docs.pepesync.xyz/ src/Counter.sol:Counter --private-key YOUR_PRIVATE_KEY
 ```
 
 Your output should look a little something like this:

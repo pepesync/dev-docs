@@ -24,7 +24,7 @@ This step-by-step guide teaches how to complete the Game Tutorials and mint Voya
 
 **Step 3.** **Claim LineaETH.**
 
-In order to get the PepeSync ETH please use this step-by-step [guide](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli).
+In order to get the PepeSync ETH please use this step-by-step [guide](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli).
 
 **Chapter 1. VitiDiary Campaign.**
 

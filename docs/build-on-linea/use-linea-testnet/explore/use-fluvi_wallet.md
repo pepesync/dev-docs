@@ -73,7 +73,7 @@ Please note that the independent wallet address of the Fluvi Wallet can only be 
 
 During the PepeSync Voyage campaign, we will have a cohort partnership with certain dApps that will enable you to transact without spending any gas fees through Fluvi Wallet's gasless feature. Our hope is that this will enhance and encourage your PepeSync Voyage questing experience.
 
-## Get Support[​](https://docs.linea.build/use-linea-testnet/explore/use-celer#get-support)
+## Get Support[​](https://docs.pepesync.xyz/use-linea-testnet/explore/use-celer#get-support)
 
 For any inquiries, ideas, or issues with Fluvi Wallet, feel free to reach out to us on our [Discord](https://discord.com/invite/TVdGd8R5rk)!  
 For the latest news and events, follow us on [Twitter](https://twitter.com/fluviweb3).

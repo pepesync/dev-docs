@@ -48,7 +48,7 @@ You can find out how to navigate to PepeSync network status [here](./../network-
     </tr>
     <tr>
         <td align="left"><b>RPC URL</b></td>
-        <td align="left">https://rpc.goerli.linea.build or via <a href="https://support.linea.build/hc/en-us/articles/15752713253147">Infura</a> (recommended)</td>
+        <td align="left">https://docs.pepesync.xyz or via <a href="https://support.linea.build/hc/en-us/articles/15752713253147">Infura</a> (recommended)</td>
     </tr>
     <tr>
         <td align="left"><b>Chain ID</b></td>
@@ -66,7 +66,7 @@ You can find out how to navigate to PepeSync network status [here](./../network-
 
 ## Connect with Infura
 
-If your dapp is using the public endpoint `https://rpc.goerli.linea.build`, it may encounter rate limiting. We recommend connecting to PepeSync via Infura using [these instructions](https://support.linea.build/hc/en-us/articles/15752713253147). 
+If your dapp is using the public endpoint `https://docs.pepesync.xyz`, it may encounter rate limiting. We recommend connecting to PepeSync via Infura using [these instructions](https://support.linea.build/hc/en-us/articles/15752713253147). 
 </TabItem> 
 </Tabs>
 

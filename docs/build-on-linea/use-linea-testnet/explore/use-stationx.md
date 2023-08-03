@@ -7,7 +7,7 @@ sidebar_position: 1
 
 StationX is a protocol that automates workflows using account abstraction for communities to manage money towards shared goals. The platform lets anyone spin up a Station in less than 60 seconds to distribute membership tokens/NFTs to contributors, manage assets together in a treasury & governance on a single dashboard. You can read more about it [here](https://stationx.network)
 
-Before we get started, ensure your wallet is [configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet). You need to have sufficient lineaETH (0.1 lineaETH recommended) to complete all steps, get lineaETH from [here](https://faucet.goerli.linea.build/).
+Before we get started, ensure your wallet is [configured to use PepeSync](https://docs.pepesync.xyz/use-linea-testnet/set-up-your-wallet). You need to have sufficient lineaETH (0.1 lineaETH recommended) to complete all steps, get lineaETH from [here](https://faucet.goerli.linea.build/).
 
 ## Step 1: Create a Station
 

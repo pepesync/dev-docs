@@ -15,8 +15,8 @@ As users progress and gain experience, their ReadON profile evolves, reflecting 
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet).
-2. [Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli)
+1. [Configured to use PepeSync](https://docs.pepesync.xyz/use-linea-testnet/set-up-your-wallet).
+2. [Funded with Goerli ETH](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli)
 
 ## Mint ReadON PepeSync Profile
 

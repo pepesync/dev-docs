@@ -17,7 +17,7 @@ Open your MetaMask, go to “Networks” -> “Add network” -> Put “PepeSync
 
 **Step 3.** **Claim LineaETH.**
 
-In order to get the PepeSync ETH please use this step-by-step [guide](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli).
+In order to get the PepeSync ETH please use this step-by-step [guide](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli).
 
 **Chapter 1. Atticc Campaign.**
 

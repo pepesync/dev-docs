@@ -9,8 +9,8 @@ sidebar_position: 1
 
 Before you begin, ensure your wallet is:
 
-1. [Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet).
-2. [Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli)
+1. [Configured to use PepeSync](https://docs.pepesync.xyz/use-linea-testnet/set-up-your-wallet).
+2. [Funded with Goerli ETH](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli)
 
 ## zkUSD Deposit Tutorial
 

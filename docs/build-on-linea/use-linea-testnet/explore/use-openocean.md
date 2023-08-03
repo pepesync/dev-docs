@@ -9,8 +9,8 @@ OpenOcean is a leading DEX Aggregator, a cross-chain swap aggregator, and Web 3 
 
 Before you start, please ensure your wallet is:
 
-1. [Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet).
-2. [Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli)
+1. [Configured to use PepeSync](https://docs.pepesync.xyz/use-linea-testnet/set-up-your-wallet).
+2. [Funded with Goerli ETH](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli)
 
 **How to make swaps on PepeSync Testnet via OpenOcean**
 

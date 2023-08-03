@@ -48,7 +48,7 @@ module.exports = {
       provider: () => {
         return new HDWalletProvider(
           MNEMONIC,
-          `https://rpc.goerli.linea.build/`,
+          `https://docs.pepesync.xyz/`,
         );
       },
       verify: {

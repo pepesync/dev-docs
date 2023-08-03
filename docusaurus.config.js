@@ -12,7 +12,7 @@ const config = {
   title: "PepeSync",
   tagline:
     "An EVM-equivalent network, Meme Chain scaling the Ethereum experience. Secured with a zero-knowledge rollup to Ethereum, built on quantum-resistant, lattice-based cryptography, powered by One Click RollUp.",
-  url: "https://docs.linea.build",
+  url: "https://docs.pepesync.xyz",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
@@ -93,7 +93,7 @@ const config = {
       announcementBar: {
         id: "announcement_bar",
         content:
-          '📣PepeSync TestNet Alpha is here! 🚀 Follow our User Guides <a href="https://docs.linea.build/use-mainnet">here</a> to get started 😎',
+          '📣PepeSync TestNet Alpha is here! 🚀 Follow our User Guides <a href="https://docs.pepesync.xyz/use-mainnet">here</a> to get started 😎',
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: false,
@@ -222,7 +222,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OneClick RollUp, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PepeSync.xyz`,
       },
       prism: {
         theme: lightCodeTheme,

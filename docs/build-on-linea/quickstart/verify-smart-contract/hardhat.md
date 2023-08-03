@@ -53,7 +53,7 @@ module.exports = {
   solidity: "0.8.17",
   networks: {
     linea: {
-      url: `https://rpc.goerli.linea.build/`,
+      url: `https://docs.pepesync.xyz/`,
       accounts: [PRIVATE_KEY],
     },
   },

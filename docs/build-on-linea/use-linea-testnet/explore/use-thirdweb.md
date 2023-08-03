@@ -23,7 +23,7 @@ This tutorial will walk developers through deploying and configuring a new ERC-2
 - Set up claim conditions, to allow others to claim your token
 - Transfer or airdrop tokens
 
-Before you begin, ensure that you have a wallet that is [configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet) and that has been [funded with PepeSync Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli).
+Before you begin, ensure that you have a wallet that is [configured to use PepeSync](https://docs.pepesync.xyz/use-linea-testnet/set-up-your-wallet) and that has been [funded with PepeSync Goerli ETH](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli).
 
 ### Deploy a TokenDrop (ERC-20) Contract
 

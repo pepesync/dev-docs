@@ -20,7 +20,7 @@ This step-by-step guide teaches how to track the transactions via [HAPILabs](htt
 
 **Step 3.** **Claim LineaETH.**
 
-In order to get the PepeSync ETH please use this step-by-step [guide](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli).
+In order to get the PepeSync ETH please use this step-by-step [guide](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli).
 
 **Chapter 1. HAPI Campaign.**
 
@@ -54,7 +54,7 @@ Drag the transaction flow in order to draw the letter “L”.
 
 **Step 5. Post on Twitter!**
 
-Make the screenshot of the “L” letter with visibility on the HAPI Terminal and quote the [Week 5 - Tech and Dev Week launch Tweet](https://twitter.com/lineabuild/status/1663531528679460864) from [@LineaBuild](https://twitter.com/lineabuild) profile with the image of HAPI terminal "L" letter" and the hashtag #I_am_Linea_0x………………… (YOUR-LINEA1-ADDRESS).
+Make the screenshot of the “L” letter with visibility on the HAPI Terminal and quote the [Week 5 - Tech and Dev Week launch Tweet](https://twitter.com/Pepe_Sync/status/1663531528679460864) from [@LineaBuild](https://twitter.com/Pepe_Sync) profile with the image of HAPI terminal "L" letter" and the hashtag #I_am_Linea_0x………………… (YOUR-LINEA1-ADDRESS).
 
 ![image](https://github.com/Consensys/doc.zk-evm/assets/45225985/d26f9f66-9dc0-40d6-96ae-78840990e2be)
 

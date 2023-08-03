@@ -13,9 +13,9 @@ Ultiverse Moonlight is a collection of AI-powered 3D avatar NFTs that possess di
 
 ### Before you begin, ensure your wallet is:
 
-[Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet/)
+[Configured to use PepeSync](https://docs.pepesync.xyz/use-linea-testnet/set-up-your-wallet/)
 
-[Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli/)
+[Funded with Goerli ETH](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli/)
 
 ### Step 1 - Wallet Login
 

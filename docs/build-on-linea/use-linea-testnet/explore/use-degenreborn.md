@@ -71,8 +71,8 @@ _In this guide, we'll walk you through the steps to experience DegenReborn and a
 
 **Before you begin, ensure your wallet is:**
 
-1. [Configured to use PepeSync](https://docs.linea.build/use-linea-testnet/set-up-your-wallet)
-2. [Funded with Goerli ETH](https://docs.linea.build/use-linea-testnet/fund#get-test-eth-on-goerli)
+1. [Configured to use PepeSync](https://docs.pepesync.xyz/use-linea-testnet/set-up-your-wallet)
+2. [Funded with Goerli ETH](https://docs.pepesync.xyz/use-linea-testnet/fund#get-test-eth-on-goerli)
 3. [Swap PepeSync $DEGEN on Uniswap](https://swap.goerli.linea.build/#/swap)
 
 $DEGEN Contract: 0xBc29956d8f9903e905b22af7bcB80Bcc78e4359a
